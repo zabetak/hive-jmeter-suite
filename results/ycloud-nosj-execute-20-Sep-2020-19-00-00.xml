@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="229620" lt="229519" ts="1600621157602" s="true" lb="query5" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="7399" ng="1" na="1">
+  <responseData class="java.lang.String">channel	id	sales	returns	profit
+catalog channel	catalog_pageAAAAAAAAAAACAAAA	0.00	8033.03	-5543.18
+catalog channel	catalog_pageAAAAAAAAAABCAAAA	0.00	9839.34	-3870.51
+catalog channel	catalog_pageAAAAAAAAAAFDAAAA	0.00	13244944.99	-7792826.82
+catalog channel	catalog_pageAAAAAAAAAAGDAAAA	531887610.76	4501822.30	-58101457.24
+catalog channel	catalog_pageAAAAAAAAAAHDAAAA	266118045.23	1592901.96	-28787160.68
+catalog channel	catalog_pageAAAAAAAAAAIDAAAA	263881148.35	1645983.86	-27433385.09
+catalog channel	catalog_pageAAAAAAAAAAJCAAAA	0.00	45893.82	-34245.99
+catalog channel	catalog_pageAAAAAAAAAAJDAAAA	0.00	1053657.43	-621292.19
+catalog channel	catalog_pageAAAAAAAAAAKCAAAA	0.00	580450.17	-334422.38
+catalog channel	catalog_pageAAAAAAAAAAKDAAAA	0.00	1017033.86	-566600.44
+catalog channel	catalog_pageAAAAAAAAAALCAAAA	0.00	654899.00	-365291.91
+catalog channel	catalog_pageAAAAAAAAAALDAAAA	0.00	1003015.49	-544407.76
+catalog channel	catalog_pageAAAAAAAAAAMBAAAA	0.00	1365801.07	-785353.50
+catalog channel	catalog_pageAAAAAAAAAAMDAAAA	0.00	797676.08	-448443.17
+catalog channel	catalog_pageAAAAAAAAAANDAAAA	0.00	380618.45	-233488.12
+catalog channel	catalog_pageAAAAAAAAAAODAAAA	0.00	420335.31	-218705.08
+catalog channel	catalog_pageAAAAAAAAAAPBAAAA	0.00	675421.98	-409866.82
+catalog channel	catalog_pageAAAAAAAAAAPDAAAA	265084158.86	86932.57	-26896506.05
+catalog channel	catalog_pageAAAAAAAAABACAAAA	0.00	8497.76	-8645.03
+catalog channel	catalog_pageAAAAAAAAABBCAAAA	0.00	18152.45	-13471.88
+catalog channel	catalog_pageAAAAAAAAABEDAAAA	0.00	13101148.50	-7489201.36
+catalog channel	catalog_pageAAAAAAAAABFDAAAA	0.00	13444912.37	-7641282.53
+catalog channel	catalog_pageAAAAAAAAABGDAAAA	527800755.03	4579315.49	-56834573.54
+catalog channel	catalog_pageAAAAAAAAABHDAAAA	265385538.69	1439531.84	-27641328.03
+catalog channel	catalog_pageAAAAAAAAABIDAAAA	265223317.16	1689224.59	-26341272.07
+catalog channel	catalog_pageAAAAAAAAABJCAAAA	0.00	54063.79	-35966.00
+catalog channel	catalog_pageAAAAAAAAABJDAAAA	0.00	1009663.21	-573167.83
+catalog channel	catalog_pageAAAAAAAAABKCAAAA	0.00	595274.00	-310120.32
+catalog channel	catalog_pageAAAAAAAAABKDAAAA	0.00	999022.09	-583592.11
+catalog channel	catalog_pageAAAAAAAAABLCAAAA	0.00	644612.18	-362245.97
+catalog channel	catalog_pageAAAAAAAAABLDAAAA	0.00	981178.59	-576815.90
+catalog channel	catalog_pageAAAAAAAAABMBAAAA	0.00	1285455.52	-747240.98
+catalog channel	catalog_pageAAAAAAAAABMDAAAA	0.00	709066.65	-406732.10
+catalog channel	catalog_pageAAAAAAAAABNDAAAA	0.00	355939.09	-205889.81
+catalog channel	catalog_pageAAAAAAAAABODAAAA	0.00	395699.55	-260914.38
+catalog channel	catalog_pageAAAAAAAAABPBAAAA	0.00	637974.55	-382021.43
+catalog channel	catalog_pageAAAAAAAAABPDAAAA	263913079.62	117600.73	-27471382.44
+catalog channel	catalog_pageAAAAAAAAACACAAAA	0.00	24850.24	-9648.61
+catalog channel	catalog_pageAAAAAAAAACBCAAAA	0.00	15854.53	-9520.95
+catalog channel	catalog_pageAAAAAAAAACEDAAAA	0.00	13565568.73	-7892067.93
+catalog channel	catalog_pageAAAAAAAAACFDAAAA	0.00	13365952.25	-7705102.44
+catalog channel	catalog_pageAAAAAAAAACGDAAAA	530639207.13	4697557.18	-58099330.56
+catalog channel	catalog_pageAAAAAAAAACHDAAAA	264820739.49	1597618.58	-26990821.21
+catalog channel	catalog_pageAAAAAAAAACIDAAAA	265038143.93	1507800.36	-27737400.93
+catalog channel	catalog_pageAAAAAAAAACJCAAAA	0.00	56560.96	-26386.00
+catalog channel	catalog_pageAAAAAAAAACJDAAAA	0.00	1018484.36	-561553.67
+catalog channel	catalog_pageAAAAAAAAACKCAAAA	0.00	643242.38	-381198.20
+catalog channel	catalog_pageAAAAAAAAACKDAAAA	0.00	943577.69	-518477.14
+catalog channel	catalog_pageAAAAAAAAACLCAAAA	0.00	689522.73	-391113.82
+catalog channel	catalog_pageAAAAAAAAACLDAAAA	0.00	1024504.49	-632858.21
+catalog channel	catalog_pageAAAAAAAAACMBAAAA	0.00	1481982.85	-858022.15
+catalog channel	catalog_pageAAAAAAAAACMDAAAA	0.00	635438.59	-412747.82
+catalog channel	catalog_pageAAAAAAAAACNDAAAA	0.00	392766.33	-230312.16
+catalog channel	catalog_pageAAAAAAAAACODAAAA	0.00	389199.79	-221160.42
+catalog channel	catalog_pageAAAAAAAAACPBAAAA	0.00	675353.84	-376736.07
+catalog channel	catalog_pageAAAAAAAAACPDAAAA	266029896.54	85100.70	-27726921.65
+catalog channel	catalog_pageAAAAAAAAADACAAAA	0.00	20607.82	-15085.67
+catalog channel	catalog_pageAAAAAAAAADBCAAAA	0.00	15269.69	-7906.00
+catalog channel	catalog_pageAAAAAAAAADEDAAAA	0.00	12662401.06	-7588890.84
+catalog channel	catalog_pageAAAAAAAAADFDAAAA	0.00	13453699.06	-7772239.44
+catalog channel	catalog_pageAAAAAAAAADGDAAAA	529299756.97	4650078.44	-55082962.46
+catalog channel	catalog_pageAAAAAAAAADHDAAAA	263664251.58	1617575.18	-28083930.50
+catalog channel	catalog_pageAAAAAAAAADIDAAAA	265125847.39	1709920.25	-26844852.49
+catalog channel	catalog_pageAAAAAAAAADJCAAAA	0.00	61996.77	-36030.76
+catalog channel	catalog_pageAAAAAAAAADJDAAAA	0.00	1054644.08	-647036.01
+catalog channel	catalog_pageAAAAAAAAADKCAAAA	0.00	631675.93	-358458.49
+catalog channel	catalog_pageAAAAAAAAADKDAAAA	0.00	914954.99	-547616.31
+catalog channel	catalog_pageAAAAAAAAADLCAAAA	0.00	608248.76	-349207.38
+catalog channel	catalog_pageAAAAAAAAADLDAAAA	0.00	945092.61	-570413.35
+catalog channel	catalog_pageAAAAAAAAADMBAAAA	0.00	1429089.33	-832663.74
+catalog channel	catalog_pageAAAAAAAAADMDAAAA	0.00	653261.87	-406770.12
+catalog channel	catalog_pageAAAAAAAAADNDAAAA	0.00	358963.54	-251414.50
+catalog channel	catalog_pageAAAAAAAAADODAAAA	266015589.77	102672.22	-27091016.40
+catalog channel	catalog_pageAAAAAAAAADPBAAAA	0.00	635073.48	-375742.01
+catalog channel	catalog_pageAAAAAAAAADPDAAAA	267294723.34	106447.37	-25605287.99
+catalog channel	catalog_pageAAAAAAAAAEACAAAA	0.00	8443.60	-3417.70
+catalog channel	catalog_pageAAAAAAAAAEEDAAAA	0.00	13402987.24	-7759852.62
+catalog channel	catalog_pageAAAAAAAAAEFDAAAA	0.00	13744923.12	-7979492.50
+catalog channel	catalog_pageAAAAAAAAAEGDAAAA	531029136.08	4929444.22	-54281102.97
+catalog channel	catalog_pageAAAAAAAAAEHDAAAA	264871788.62	1641817.78	-27947863.11
+catalog channel	catalog_pageAAAAAAAAAEIDAAAA	265473640.44	1539212.90	-27192565.23
+catalog channel	catalog_pageAAAAAAAAAEJCAAAA	0.00	49131.57	-31966.39
+catalog channel	catalog_pageAAAAAAAAAEJDAAAA	0.00	1088877.08	-583036.25
+catalog channel	catalog_pageAAAAAAAAAEKCAAAA	0.00	600131.58	-358574.55
+catalog channel	catalog_pageAAAAAAAAAEKDAAAA	0.00	986069.10	-611723.28
+catalog channel	catalog_pageAAAAAAAAAELCAAAA	0.00	639274.22	-377615.85
+catalog channel	catalog_pageAAAAAAAAAELDAAAA	0.00	896331.01	-517454.20
+catalog channel	catalog_pageAAAAAAAAAEMBAAAA	0.00	1420111.85	-809664.90
+catalog channel	catalog_pageAAAAAAAAAEMDAAAA	0.00	805571.87	-432395.95
+catalog channel	catalog_pageAAAAAAAAAENDAAAA	0.00	369365.63	-225187.08
+catalog channel	catalog_pageAAAAAAAAAEODAAAA	264590100.17	96127.28	-27846076.32
+catalog channel	catalog_pageAAAAAAAAAEPBAAAA	0.00	713248.31	-417304.64
+catalog channel	catalog_pageAAAAAAAAAEPDAAAA	269594922.21	106920.39	-24304896.98
+catalog channel	catalog_pageAAAAAAAAAFACAAAA	0.00	11140.42	-6036.78
+catalog channel	catalog_pageAAAAAAAAAFEDAAAA	0.00	13022868.76	-7711228.74
+catalog channel	catalog_pageAAAAAAAAAFFDAAAA	0.00	13077960.05	-7635999.14
+catalog channel	catalog_pageAAAAAAAAAFGDAAAA	531365517.17	4676196.39	-57131016.17
+catalog channel	catalog_pageAAAAAAAAAFHDAAAA	264927952.47	1631953.01	-28957976.51
+catalog channel	catalog_pageAAAAAAAAAFIDAAAA	266061627.10	1680155.35	-26570952.85
+catalog channel	catalog_pageAAAAAAAAAFJCAAAA	0.00	53005.75	-36431.99
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query5
+with ssr as (select s_store_id, sum(sales_price) as sales, sum(profit) as profit, sum(return_amt) as returns, sum(net_loss) as profit_loss from ( select  ss_store_sk as store_sk, ss_sold_date_sk  as date_sk, ss_ext_sales_price as sales_price, ss_net_profit as profit, cast(0 as decimal(7,2)) as return_amt, cast(0 as decimal(7,2)) as net_loss from store_sales union all select sr_store_sk as store_sk, sr_returned_date_sk as date_sk, cast(0 as decimal(7,2)) as sales_price, cast(0 as decimal(7,2)) as profit, sr_return_amt as return_amt, sr_net_loss as net_loss from store_returns ) salesreturns, date_dim, store where date_sk = d_date_sk and d_date between cast(&apos;2000-08-19&apos; as date) and (cast(&apos;2000-08-19&apos; as date) +  14 days) and store_sk = s_store_sk group by s_store_id) , csr as (select cp_catalog_page_id, sum(sales_price) as sales, sum(profit) as profit, sum(return_amt) as returns, sum(net_loss) as profit_loss from ( select  cs_catalog_page_sk as page_sk, cs_sold_date_sk  as date_sk, cs_ext_sales_price as sales_price, cs_net_profit as profit, cast(0 as decimal(7,2)) as return_amt, cast(0 as decimal(7,2)) as net_loss from catalog_sales union all select cr_catalog_page_sk as page_sk, cr_returned_date_sk as date_sk, cast(0 as decimal(7,2)) as sales_price, cast(0 as decimal(7,2)) as profit, cr_return_amount as return_amt, cr_net_loss as net_loss from catalog_returns ) salesreturns, date_dim, catalog_page where date_sk = d_date_sk and d_date between cast(&apos;2000-08-19&apos; as date) and (cast(&apos;2000-08-19&apos; as date) +  14 days) and page_sk = cp_catalog_page_sk group by cp_catalog_page_id) , wsr as (select web_site_id, sum(sales_price) as sales, sum(profit) as profit, sum(return_amt) as returns, sum(net_loss) as profit_loss from ( select  ws_web_site_sk as wsr_web_site_sk, ws_sold_date_sk  as date_sk, ws_ext_sales_price as sales_price, ws_net_profit as profit, cast(0 as decimal(7,2)) as return_amt, cast(0 as decimal(7,2)) as net_loss from web_sales union all select ws_web_site_sk as wsr_web_site_sk, wr_returned_date_sk as date_sk, cast(0 as decimal(7,2)) as sales_price, cast(0 as decimal(7,2)) as profit, wr_return_amt as return_amt, wr_net_loss as net_loss from web_returns left outer join web_sales on ( wr_item_sk = ws_item_sk and wr_order_number = ws_order_number) ) salesreturns, date_dim, web_site where date_sk = d_date_sk and d_date between cast(&apos;2000-08-19&apos; as date) and (cast(&apos;2000-08-19&apos; as date) +  14 days) and wsr_web_site_sk = web_site_sk group by web_site_id) select  channel , id , sum(sales) as sales , sum(returns) as returns , sum(profit) as profit from (select &apos;store channel&apos; as channel , &apos;store&apos; || s_store_id as id , sales , returns , (profit - profit_loss) as profit from   ssr union all select &apos;catalog channel&apos; as channel , &apos;catalog_page&apos; || cp_catalog_page_id as id , sales , returns , (profit - profit_loss) as profit from  csr union all select &apos;web channel&apos; as channel , &apos;web_site&apos; || web_site_id as id , sales , returns , (profit - profit_loss) as profit from   wsr ) x group by rollup (channel, id) order by channel ,id limit 100
+
+</samplerData>
+</sample>
+<sample t="234431" lt="234345" ts="1600621392047" s="true" lb="query17" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="17248" ng="1" na="1">
+  <responseData class="java.lang.String">i_item_id	i_item_desc	s_state	store_sales_quantitycount	store_sales_quantityave	store_sales_quantitystdev	store_sales_quantitycov	store_returns_quantitycount	store_returns_quantityave	store_returns_quantitystdev	store_returns_quantitycov	catalog_sales_quantitycount	catalog_sales_quantityave	catalog_sales_quantitystdev	catalog_sales_quantitycov
+AAAAAAAAAABBGAAA	Domestic chemicals will carry too substantial, male difficulties; years must make beyond a children. Years will not see quickly sounds. Friendly years should isolate retail, previous school	TX	1	74.0	null	null	1	3.0	null	null	1	35.0	null	null
+AAAAAAAAAABDEAAA	Outer, british films begin as adequately white operators; at least likely changes pray finally. R	NC	1	77.0	null	null	1	56.0	null	null	1	23.0	null	null
+AAAAAAAAAACLEAAA	Local languages evaluate even particular issues. Only fortunes cannot allow forward active, red cuts. Little departments will get best. Royal hands will mention just other times. Certain,	SC	1	3.0	null	null	1	2.0	null	null	1	53.0	null	null
+AAAAAAAAAADFAAAA	Proud articles must pass much vital, creative days. Competitors used to build better nevertheless ready men. British 	LA	1	59.0	null	null	1	34.0	null	null	1	7.0	null	null
+AAAAAAAAAADFCAAA	Main areas give long radical shareholders. Ready matters like with a strengths. Originally leading levels must mean at least optimistic, prepared republics. Public	AL	1	41.0	null	null	1	31.0	null	null	1	48.0	null	null
+AAAAAAAAAAEHFAAA	Personal reasons may appear solely local vehicles. Issues put too black flames. Positive rounds can help; indoors miserable contracts shall stay again ancient years. Universities place even so organis	SC	1	58.0	null	null	1	52.0	null	null	1	42.0	null	null
+AAAAAAAAAAEIEAAA	Conscious pp. act 	TX	1	32.0	null	null	1	22.0	null	null	1	37.0	null	null
+AAAAAAAAAAEKDAAA	Breasts	PA	1	37.0	null	null	1	15.0	null	null	1	78.0	null	null
+AAAAAAAAAAEPDAAA	Methods ought to offer above months. Normally certain casualties shall produce at all good acids. Then happy members must get rather; more 	TN	1	68.0	null	null	1	16.0	null	null	1	4.0	null	null
+AAAAAAAAAAFACAAA	Soon permanent manufacturers shall celebrate also left, curious symptoms. Local words 	OR	1	22.0	null	null	1	2.0	null	null	1	12.0	null	null
+AAAAAAAAAAGEAAAA	Away high rules might not present better circumstances; black, magic details believe 	IN	1	24.0	null	null	1	21.0	null	null	1	97.0	null	null
+AAAAAAAAAAGEBAAA	Solutions shall not get then. Children would hang to a wages. Major ye	PA	1	65.0	null	null	1	45.0	null	null	1	38.0	null	null
+AAAAAAAAAAGKBAAA	Models would pay immediately horses. Values matter. Effective, other meanings give currently forward actual teeth. Tall rumours o	IA	1	3.0	null	null	1	1.0	null	null	1	97.0	null	null
+AAAAAAAAAAHKDAAA	Players	MI	1	24.0	null	null	1	19.0	null	null	1	27.0	null	null
+AAAAAAAAAAIBBAAA	Questions require right overhead thin appointments. Odd women create obviously. Blocks come now appropriate, personal eyes; improvements	MN	1	22.0	null	null	1	10.0	null	null	1	12.0	null	null
+AAAAAAAAAAIBBAAA	Questions require right overhead thin appointments. Odd women create obviously. Blocks come now appropriate, personal eyes; improvements	TX	1	85.0	null	null	1	20.0	null	null	1	73.0	null	null
+AAAAAAAAAAIHEAAA	At least sure communicat	TN	1	21.0	null	null	1	12.0	null	null	1	95.0	null	null
+AAAAAAAAAAIIBAAA	Loyal schools worry other, public children. Judicial, scottish associations shall not need lightly rules. Years should not include so again na	NC	1	26.0	null	null	1	22.0	null	null	1	61.0	null	null
+AAAAAAAAAAJBGAAA	Very new games bite in vain societies. Fast f	TN	1	19.0	null	null	1	2.0	null	null	1	66.0	null	null
+AAAAAAAAAAJJEAAA	There successfu	OK	1	21.0	null	null	1	16.0	null	null	1	43.0	null	null
+AAAAAAAAAAJPFAAA	Maps happ	SC	1	53.0	null	null	1	18.0	null	null	1	46.0	null	null
+AAAAAAAAAAKICAAA	Minimum times know in addition unions. New, careful cards get also for the accountants. Certain, overseas motives see sooner public seconds. Sometimes marrie	OH	1	21.0	null	null	1	8.0	null	null	1	61.0	null	null
+AAAAAAAAAALJCAAA	Additional images hear more left assets. Organic, co	TN	1	30.0	null	null	1	2.0	null	null	1	12.0	null	null
+AAAAAAAAAALNFAAA	Recently u	VT	1	58.0	null	null	1	29.0	null	null	1	31.0	null	null
+AAAAAAAAAAMMFAAA	Comprehensive applications disappear good, essential months. Social goods cannot complete more at a forms. Real children should see necessarily sadl	NJ	1	59.0	null	null	1	51.0	null	null	1	59.0	null	null
+AAAAAAAAAAMPBAAA	Cold bedrooms should not take widely tragic, small miles. Bloody, single blocks finance then fo	PA	1	48.0	null	null	1	28.0	null	null	1	66.0	null	null
+AAAAAAAAAANBGAAA	Highly true councils might not open sure plates. Select users go sensibly now right efforts. Academic shares remain environmental subjects. Chains make. Dogs might alter however legal years	SC	1	19.0	null	null	1	7.0	null	null	1	7.0	null	null
+AAAAAAAAAANIEAAA	Applications think top, english examples. Traditional, financial newspapers improve initially matters. Other, thick contents must get broadly 	VA	1	98.0	null	null	1	82.0	null	null	1	43.0	null	null
+AAAAAAAAAANLFAAA	Often sharp children save again impressive, high 	KS	1	24.0	null	null	1	20.0	null	null	1	76.0	null	null
+AAAAAAAAAANNDAAA	Effects suggest angles; never familiar parties shall follow highly mediterranean experts. Drugs see. So extended problems should take on a di	WV	1	42.0	null	null	1	30.0	null	null	1	92.0	null	null
+AAAAAAAAAAOAAAAA	Blue days shall not run therefore american hands. Companies might take particularly years. Related hands avoid premises. Love	TX	1	27.0	null	null	1	25.0	null	null	1	26.0	null	null
+AAAAAAAAAAOHCAAA	Just foreign principles investigate single, real children. Always experimental teachers may know only true young auditors. Warm changes would marry sexual circumstances. Special, civil things tole	OR	1	85.0	null	null	1	9.0	null	null	1	84.0	null	null
+AAAAAAAAAAPMEAAA	Then be	KY	1	3.0	null	null	1	3.0	null	null	1	25.0	null	null
+AAAAAAAAABAFEAAA	Changes shall discern more particular, old clients. Individual, funny things provide really for a lawyers. Worried plates feel still exceptional fortunes. Remarkable strategies might not allow h	CA	1	27.0	null	null	1	20.0	null	null	1	77.0	null	null
+AAAAAAAAABAJBAAA	Schools	PA	1	9.0	null	null	1	7.0	null	null	1	49.0	null	null
+AAAAAAAAABBFEAAA	Genera	NM	1	83.0	null	null	1	25.0	null	null	1	31.0	null	null
+AAAAAAAAABDDBAAA	Healthy islands adopt for the thoughts. Social patterns make for a subjects. Actual sets tackle small enough right negoti	AL	1	42.0	null	null	1	8.0	null	null	1	2.0	null	null
+AAAAAAAAABDICAAA	Numbers make ever heavy rocks; specimens might find even particularly level variables. Idly able problems may not enjoy fres	  	1	19.0	null	null	1	16.0	null	null	1	45.0	null	null
+AAAAAAAAABDKDAAA	Military days cannot show suddenly great, concerned walls. Only, other centuries might advise irish months. Later afraid attempts look friends. Common drugs occur here. New, small men watch na	TX	1	25.0	null	null	1	19.0	null	null	1	78.0	null	null
+AAAAAAAAABFDCAAA	Cheap good te	GA	1	39.0	null	null	1	5.0	null	null	1	72.0	null	null
+AAAAAAAAABFGEAAA	Short, old stud	GA	1	3.0	null	null	1	3.0	null	null	1	16.0	null	null
+AAAAAAAAABFKAAAA	More empty workers s	IN	1	100.0	null	null	1	64.0	null	null	1	24.0	null	null
+AAAAAAAAABGHCAAA	Thanks draw always patients. New offences see into a arms. Lucky conditions get from the titles. Objects wou	NC	1	44.0	null	null	1	24.0	null	null	1	35.0	null	null
+AAAAAAAAABJDBAAA	Married rates must no	TN	1	20.0	null	null	1	19.0	null	null	1	37.0	null	null
+AAAAAAAAABKDAAAA	Impressive, northern curtains sustain as old, technical copies. Pop	MI	1	83.0	null	null	1	43.0	null	null	1	95.0	null	null
+AAAAAAAAABKDCAAA	Sentences leave all right with a things. Persons may save red, small projects. Chief ministers go wooden, new improvements. G	CO	1	48.0	null	null	1	12.0	null	null	1	40.0	null	null
+AAAAAAAAABKJCAAA	Obvious rates come new hours; mass values must continue better original, new police; discussions expect merely widely wild costs. Important, prime pupils get yet now true inhabitants. 	NE	1	8.0	null	null	1	1.0	null	null	1	76.0	null	null
+AAAAAAAAABKODAAA	Widespread, conscious pr	NC	1	93.0	null	null	1	79.0	null	null	1	26.0	null	null
+AAAAAAAAABLDFAAA	Signs could cre	WI	1	31.0	null	null	1	22.0	null	null	1	75.0	null	null
+AAAAAAAAABMAAAAA	Sexual yards hang rapidly enough constant opponents. Accounts should control; balls see years. Economic scales divide then by a farm	KS	1	73.0	null	null	1	14.0	null	null	1	20.0	null	null
+AAAAAAAAABMJDAAA	Firmly foreign subjects must not think so. Relatively short modules should not save in a authorities. Cases say however private others. Months ought to continue at all often mad b	TX	1	17.0	null	null	1	1.0	null	null	1	36.0	null	null
+AAAAAAAAABNBCAAA	Children must help greatly into the subjects. Shops bring close years. Leading, basic events may not leave as cont	MN	1	49.0	null	null	1	33.0	null	null	1	83.0	null	null
+AAAAAAAAABNOAAAA	Sexual allies must play literary, common forces. Cuts envy even approximately actual organs; modern others exploit indeed from the systems; briefly foreign improvements g	SD	1	77.0	null	null	1	58.0	null	null	1	41.0	null	null
+AAAAAAAAABOMFAAA	Subsequent, open horses used to cope so wide, urban patients. Units play very tire	OK	1	68.0	null	null	1	6.0	null	null	1	11.0	null	null
+AAAAAAAAABPKDAAA	Values allow places; already general hours must know very new main 	IN	1	51.0	null	null	1	36.0	null	null	1	79.0	null	null
+AAAAAAAAACANFAAA	Services describe neig	CA	1	12.0	null	null	1	5.0	null	null	1	30.0	null	null
+AAAAAAAAACBABAAA	Now dead ranks find public, brilliant students. New cuts become cogni	MI	1	58.0	null	null	1	22.0	null	null	1	77.0	null	null
+AAAAAAAAACBGCAAA	Clearly international differences match wide days. Other, single circumstances shop hom	MI	1	69.0	null	null	1	53.0	null	null	1	73.0	null	null
+AAAAAAAAACBKBAAA	British, local grounds think lovers. 	IA	1	50.0	null	null	1	32.0	null	null	1	34.0	null	null
+AAAAAAAAACBLDAAA	Ill, special mountains know even new, british proceedings; real syst	MI	1	42.0	null	null	1	4.0	null	null	1	80.0	null	null
+AAAAAAAAACCDDAAA	Particularly quiet dates change explanations; just social services attack large guns. Successful, clean tables used to open so political, individual boys. Shareholders could bother lo	GA	1	32.0	null	null	1	17.0	null	null	1	64.0	null	null
+AAAAAAAAACCMDAAA	Similar patterns delay in addition new, ready years. Expensive elections last most clinical pensioners. Cases die now worth the months. Months shall ta	MI	1	55.0	null	null	1	5.0	null	null	1	79.0	null	null
+AAAAAAAAACDBCAAA	Even large criticisms shall try as environmental standard provisions. Late small sons must not make ago grey, reliable spaces	FL	1	45.0	null	null	1	35.0	null	null	1	43.0	null	null
+AAAAAAAAACDKBAAA	Direct personal laws say much british charges. Running, economic act	TN	1	3.0	null	null	1	2.0	null	null	1	72.0	null	null
+AAAAAAAAACDPAAAA	Identical, initial parts mean else with a assum	NM	1	44.0	null	null	1	15.0	null	null	1	76.0	null	null
+AAAAAAAAACEACAAA	A litt	MI	1	60.0	null	null	1	47.0	null	null	1	31.0	null	null
+AAAAAAAAACEEEAAA	Finally successful walls run. Internal bands may concentrate commentators. So unhappy trends go legal, sure banks; young 	CA	1	70.0	null	null	1	49.0	null	null	1	50.0	null	null
+AAAAAAAAACEGFAAA	So average services refer young tools. Public homes crack new, available proposals. Again concerned records create now also co	TX	1	84.0	null	null	1	35.0	null	null	1	69.0	null	null
+AAAAAAAAACFCBAAA	Inside complex bones should raise together for a grounds; too clean companies co	MN	1	41.0	null	null	1	26.0	null	null	1	43.0	null	null
+AAAAAAAAACFLBAAA	At all happy projects could not learn white, neat hills. Limited, yo	CA	1	79.0	null	null	1	40.0	null	null	1	43.0	null	null
+AAAAAAAAACHCDAAA	Suitable parents form as for a tracks. Popular advantages can see just public men. Sometimes black others see perhaps local, close things; more than hig	KS	1	49.0	null	null	1	35.0	null	null	1	69.0	null	null
+AAAAAAAAACHEEAAA	Past busy members must not look entries. Groups repair particularly since a film	MI	1	32.0	null	null	1	3.0	null	null	1	12.0	null	null
+AAAAAAAAACHKEAAA	Heroes may admit statutory depths. Proposed circumstances must reach very. Swiss, severe res	MN	1	96.0	null	null	1	54.0	null	null	1	75.0	null	null
+AAAAAAAAACHNBAAA	Big, good islands vary quite things. Practical, particular stations mean as commercially beautiful rebels. Available purposes should recognize then aspects. Rules can cover only big fans	MI	1	55.0	null	null	1	50.0	null	null	1	14.0	null	null
+AAAAAAAAACICFAAA	Inc, special women used to stop other cases. British, external students would not experiment. False, fair votes can take. Windows may not supply children. Logical, poor children shall not ma	GA	1	66.0	null	null	1	33.0	null	null	1	22.0	null	null
+AAAAAAAAACIDAAAA	About military signals could consider swiftly also international records. Good, following owners get fairly obvious sales; players might understand with 	GA	1	35.0	null	null	1	35.0	null	null	1	5.0	null	null
+AAAAAAAAACIDDAAA	Foreign, interesting hours travel particular models; passengers ensure together major devices. Original trousers used to describe in order churches; citizens cannot develop certainly small tec	VA	1	34.0	null	null	1	14.0	null	null	1	64.0	null	null
+AAAAAAAAACIFCAAA	Basic shares will dispose artificially quiet budgets. Areas determine other tories. Results must deepen in the routes. Intensive requirements can argue forward accurate minutes. 	NY	1	9.0	null	null	1	2.0	null	null	1	98.0	null	null
+AAAAAAAAACIGDAAA	Isolated women could join then available activities. Wages used to come for a words. Dogs en	NM	1	4.0	null	null	1	1.0	null	null	1	36.0	null	null
+AAAAAAAAACJFEAAA	Good colleges should share early. Bloody, expensive parents would not swallow at a resources. Previously negative men must take	MN	1	9.0	null	null	1	4.0	null	null	1	47.0	null	null
+AAAAAAAAACJPCAAA	Special, particular	NC	1	13.0	null	null	1	10.0	null	null	1	41.0	null	null
+AAAAAAAAACKIAAAA	Fa	MI	1	31.0	null	null	1	3.0	null	null	1	29.0	null	null
+AAAAAAAAACKODAAA	Large parties desert services. Inner, round operations make. Hours should work really with a centres. Users can want certain, single numbers. Common arguments cannot perform just; german, existing r	GA	1	4.0	null	null	1	2.0	null	null	1	43.0	null	null
+AAAAAAAAACKPFAAA	High, long hours might not tackle. Fine, left expectations must spare patients. Nearly existing cells shall not expect inev	MO	1	71.0	null	null	1	50.0	null	null	1	100.0	null	null
+AAAAAAAAACLFCAAA	Sons	PA	1	92.0	null	null	1	21.0	null	null	1	42.0	null	null
+AAAAAAAAACLFEAAA	Also linear trees would not wish coming, usual jews; nervous, economic resources lead closely good rates. Diplomatic cases should attrac	MD	1	89.0	null	null	1	37.0	null	null	1	47.0	null	null
+AAAAAAAAACLFFAAA	Ridiculous assets must pass quite young restau	IN	1	18.0	null	null	1	3.0	null	null	1	58.0	null	null
+AAAAAAAAACMLBAAA	Public things will not reach public. Partly fine ambitions consider much; similar, occupational contracts designate. Employe	TX	1	91.0	null	null	1	17.0	null	null	1	12.0	null	null
+AAAAAAAAACMNBAAA	European colleagues throw somewhere fixed pictures; willing, internal men show here political time	KS	1	60.0	null	null	1	10.0	null	null	1	59.0	null	null
+AAAAAAAAACMOBAAA	Exact, local steps will not play more small arts; 	GA	1	66.0	null	null	1	30.0	null	null	1	58.0	null	null
+AAAAAAAAACNCCAAA	Children wil	IL	1	55.0	null	null	1	45.0	null	null	1	10.0	null	null
+AAAAAAAAACNDFAAA	Never patient margins would not recover likely records. Demands will show ahead firm days. For long gentle pattern	CO	1	87.0	null	null	1	64.0	null	null	1	72.0	null	null
+AAAAAAAAACNFFAAA	Only, main services might search; over competitive emotions would not go distinct, leg	NC	1	93.0	null	null	1	8.0	null	null	1	59.0	null	null
+AAAAAAAAACOKAAAA	Boys cannot spend now years. Extremely lively policies could not work old cases. Also yellow thousands talk professional, likely communications. Eyes expand. Conservatives m	WV	1	83.0	null	null	1	15.0	null	null	1	64.0	null	null
+AAAAAAAAACOOCAAA	Concentrations shall not believe further feet. Particular types convene now real writers. New, likely orders shall help in particular yet national men. Minutes may open because of a ti	MD	1	10.0	null	null	0	null	null	null	1	77.0	null	null
+AAAAAAAAACPKFAAA	Physic	CA	1	93.0	null	null	1	33.0	null	null	1	47.0	null	null
+AAAAAAAAADAHDAAA	Positive, initial men work really departments; light, cul	PA	1	15.0	null	null	1	5.0	null	null	1	56.0	null	null
+AAAAAAAAADBLBAAA	Never competitive shares contact willing areas. Unusual waters o	NC	1	47.0	null	null	1	41.0	null	null	1	81.0	null	null
+AAAAAAAAADCHCAAA	Particular stones can specify hands. Added, political police may upset helplessly large weeks. Symbo	MI	1	12.0	null	null	1	7.0	null	null	1	25.0	null	null
+AAAAAAAAADDJEAAA	Inside bright estates make at a places. Busy girls ought to receive as. Hundreds see political plans. There spare packages could not give only far, large tests.	VA	1	99.0	null	null	1	15.0	null	null	1	9.0	null	null
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query17
+select  i_item_id ,i_item_desc ,s_state ,count(ss_quantity) as store_sales_quantitycount ,avg(ss_quantity) as store_sales_quantityave ,stddev_samp(ss_quantity) as store_sales_quantitystdev ,stddev_samp(ss_quantity)/avg(ss_quantity) as store_sales_quantitycov ,count(sr_return_quantity) as store_returns_quantitycount ,avg(sr_return_quantity) as store_returns_quantityave ,stddev_samp(sr_return_quantity) as store_returns_quantitystdev ,stddev_samp(sr_return_quantity)/avg(sr_return_quantity) as store_returns_quantitycov ,count(cs_quantity) as catalog_sales_quantitycount ,avg(cs_quantity) as catalog_sales_quantityave ,stddev_samp(cs_quantity) as catalog_sales_quantitystdev ,stddev_samp(cs_quantity)/avg(cs_quantity) as catalog_sales_quantitycov from store_sales ,store_returns ,catalog_sales ,date_dim d1 ,date_dim d2 ,date_dim d3 ,store ,item where d1.d_quarter_name = &apos;2000Q1&apos; and d1.d_date_sk = ss_sold_date_sk and i_item_sk = ss_item_sk and s_store_sk = ss_store_sk and ss_customer_sk = sr_customer_sk and ss_item_sk = sr_item_sk and ss_ticket_number = sr_ticket_number and sr_returned_date_sk = d2.d_date_sk and d2.d_quarter_name in (&apos;2000Q1&apos;,&apos;2000Q2&apos;,&apos;2000Q3&apos;) and sr_customer_sk = cs_bill_customer_sk and sr_item_sk = cs_item_sk and cs_sold_date_sk = d3.d_date_sk and d3.d_quarter_name in (&apos;2000Q1&apos;,&apos;2000Q2&apos;,&apos;2000Q3&apos;) group by i_item_id ,i_item_desc ,s_state order by i_item_id ,i_item_desc ,s_state limit 100
+
+</samplerData>
+</sample>
+<sample t="402750" lt="0" ts="1600621794805" s="false" lb="query24a" rc="08S01 2" rm="java.sql.SQLException: Error while compiling statement: FAILED: Execution Error, return code 2 from org.apache.hadoop.hive.ql.exec.tez.TezTask. Application application_1599783354084_0299 failed 2 times due to AM Container for appattempt_1599783354084_0299_000002 exited with  exitCode: 1&#xa;Failing this attempt.Diagnostics: [2020-09-20 17:09:45.115]Exception from container-launch.&#xa;Container id: container_e37_1599783354084_0299_02_000001&#xa;Exit code: 1&#xa;&#xa;[2020-09-20 17:09:45.119]Container exited with a non-zero exit code 1. Error file: prelaunch.err.&#xa;Last 4096 bytes of prelaunch.err :&#xa;Last 4096 bytes of stderr :&#xa;&#xa;&#xa;[2020-09-20 17:09:45.122]Container exited with a non-zero exit code 1. Error file: prelaunch.err.&#xa;Last 4096 bytes of prelaunch.err :&#xa;Last 4096 bytes of stderr :&#xa;&#xa;&#xa;For more detailed output, check the application tracking page: http://ctr-e141-1563959304486-69251-01-000003.hwx.site:8088/cluster/app/application_1599783354084_0299 Then click on links to logs of each attempt.&#xa;. Failing the application." tn="Runs 1-1" dt="text" by="991" ng="1" na="1">
+  <responseData class="java.lang.String">Error while compiling statement: FAILED: Execution Error, return code 2 from org.apache.hadoop.hive.ql.exec.tez.TezTask. Application application_1599783354084_0299 failed 2 times due to AM Container for appattempt_1599783354084_0299_000002 exited with  exitCode: 1
+Failing this attempt.Diagnostics: [2020-09-20 17:09:45.115]Exception from container-launch.
+Container id: container_e37_1599783354084_0299_02_000001
+Exit code: 1
+
+[2020-09-20 17:09:45.119]Container exited with a non-zero exit code 1. Error file: prelaunch.err.
+Last 4096 bytes of prelaunch.err :
+Last 4096 bytes of stderr :
+
+
+[2020-09-20 17:09:45.122]Container exited with a non-zero exit code 1. Error file: prelaunch.err.
+Last 4096 bytes of prelaunch.err :
+Last 4096 bytes of stderr :
+
+
+For more detailed output, check the application tracking page: http://ctr-e141-1563959304486-69251-01-000003.hwx.site:8088/cluster/app/application_1599783354084_0299 Then click on links to logs of each attempt.
+. Failing the application.</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query24a
+with ssales as (select c_last_name ,c_first_name ,s_store_name ,ca_state ,s_state ,i_color ,i_current_price ,i_manager_id ,i_units ,i_size ,sum(ss_sales_price) netpaid from store_sales ,store_returns ,store ,item ,customer ,customer_address where ss_ticket_number = sr_ticket_number and ss_item_sk = sr_item_sk and ss_customer_sk = c_customer_sk and ss_item_sk = i_item_sk and ss_store_sk = s_store_sk and c_current_addr_sk = ca_address_sk and c_birth_country &lt;&gt; upper(ca_country) and s_zip = ca_zip and s_market_id=10 group by c_last_name ,c_first_name ,s_store_name ,ca_state ,s_state ,i_color ,i_current_price ,i_manager_id ,i_units ,i_size) select c_last_name ,c_first_name ,s_store_name ,sum(netpaid) paid from ssales where i_color = &apos;snow&apos; group by c_last_name ,c_first_name ,s_store_name having sum(netpaid) &gt; (select 0.05*avg(netpaid) from ssales) order by c_last_name ,c_first_name ,s_store_name
+
+</samplerData>
+</sample>
+<sample t="93539" lt="93478" ts="1600621888346" s="true" lb="query25" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="14933" ng="1" na="1">
+  <responseData class="java.lang.String">i_item_id	i_item_desc	s_store_id	s_store_name	store_sales_profit	store_returns_loss	catalog_sales_profit
+AAAAAAAAAABFEAAA	Only available rules can know then financial, secure owners. Social interests would bear things. New phrases draw fast strong officers. Pupils should not cover anxious, strange friends. Sho	AAAAAAAACNBAAAAA	cally	-133.90	159.76	-988.21
+AAAAAAAAAACHFAAA	Social conditions should offer talks. Low, strategic books should think completely liberal periods. Troops see libraries. Only ur	AAAAAAAAGKEAAAAA	bar	-1203.88	444.67	2646.27
+AAAAAAAAAACOBAAA	Contemporary, large awards wear finally se	AAAAAAAAGEDAAAAA	eing	-929.90	236.64	1304.49
+AAAAAAAAAAEKCAAA	Over old others cross easy in a years. Associated, like cases ought to proceed	AAAAAAAAFBBAAAAA	ation	-609.12	1008.78	-937.00
+AAAAAAAAAAEPBAAA	More concrete events used to hang today significant, civil entries. 	AAAAAAAACFBAAAAA	eing	612.48	275.00	-91.68
+AAAAAAAAAAGFFAAA	Policies can attempt often vocational, commercial businessmen; criminal criteria can try obviously basic, c	AAAAAAAACPDAAAAA	bar	-191.36	25.25	-1158.16
+AAAAAAAAAAGLFAAA	Then common resources keep p	AAAAAAAAACDAAAAA	bar	-854.07	1131.17	-1089.46
+AAAAAAAAAAHADAAA	Parties might not ask at a prospects. Meals shall return individually from the examples. Western, pale rel	AAAAAAAANFEAAAAA	ation	-230.58	216.27	-84.36
+AAAAAAAAAAIFDAAA	Arbitrary, subject teams used to see. Ideas might hold. Public, green cases could happen too british sectors. Able, appropriate f	AAAAAAAAPICAAAAA	anti	31.95	54.90	-121.93
+AAAAAAAAAAJOAAAA	Nice clothes should cause else public heads. Simply legal circumstances shall say american, certain imports. Evil, parliament	AAAAAAAAGEAAAAAA	bar	73.44	397.30	2036.80
+AAAAAAAAAAOACAAA	Heels experience perhaps neither united fingers. Usually female communities see lightly dead, toxic functions. Quantities confess much. Teach	AAAAAAAALMFAAAAA	pri	-208.92	204.96	-1073.80
+AAAAAAAAABGABAAA	Other books keep however for a birds. Supplies cannot take so ago com	AAAAAAAAEFEAAAAA	eing	248.71	197.95	555.30
+AAAAAAAAABGLCAAA	Sure months can set quickly. Places must change all weak standards. Normal, european ends could remind further other minds. Similarly middle orders con	AAAAAAAANMAAAAAA	anti	8.69	69.10	-582.40
+AAAAAAAAABHAGAAA	Special poets could pay now practical,	AAAAAAAACFAAAAAA	able	-173.04	546.95	478.98
+AAAAAAAAABHKBAAA	Posts might protect about the engines. Observers could thin	AAAAAAAAHADAAAAA	anti	-583.90	156.53	526.01
+AAAAAAAAABHKEAAA	Banks might cause ever for a notes. More likely orde	AAAAAAAAKJAAAAAA	ese	-5.49	65.36	-25.50
+AAAAAAAAABKEFAAA	Conditions go largely in a ideas. Happy, full policemen cannot pay much able, desperate gifts. German men could turn just experts. Years t	AAAAAAAAKOBAAAAA	bar	278.24	290.04	-2234.40
+AAAAAAAAABLICAAA	Intermittently long documents might fire at all deep, common men. So collective employees pick both late techniq	AAAAAAAACLEAAAAA	able	-668.15	327.64	1584.55
+AAAAAAAAABNEFAAA	As yet new grounds may escape contents. Years would not let sure recommendations. Lives discuss sure, only samples. Raw times could suggest of course able count	AAAAAAAANDAAAAAA	ought	-5317.34	91.31	-256.00
+AAAAAAAAACCLBAAA	Organizations accept definitely against a rules. Later round plans feel rules; objectives show again poor villages. Useful, major minds sha	AAAAAAAAANAAAAAA	eing	-724.95	180.93	2426.97
+AAAAAAAAACCOFAAA	There helpful claims expect late attitudes. Integrated, moneta	AAAAAAAAADFAAAAA	eing	13.71	131.53	2540.95
+AAAAAAAAACEJFAAA	Of cou	AAAAAAAALBEAAAAA	ought	879.12	502.51	-629.64
+AAAAAAAAACIHAAAA	Desperately annual moments claim decent, global critics. Somewhat determined styles colour in a scales. Young s	AAAAAAAAGIAAAAAA	ese	-849.52	803.91	3864.88
+AAAAAAAAACKBEAAA	Safe years crush months. Things persuade. Grey banks wait now able kids. Possibly very employers could know; other funds go writers. Points will read s	AAAAAAAAIFEAAAAA	able	-3864.96	429.29	-1468.80
+AAAAAAAAACLBAAAA	Actual, grey hands giv	AAAAAAAAPCFAAAAA	ation	-204.82	1538.45	-497.42
+AAAAAAAAACLDAAAA	Kids should take hence local buyers. So new 	AAAAAAAAGDEAAAAA	eing	-1042.08	554.17	-28.70
+AAAAAAAAACMHFAAA	Effective, well-known kinds wish with a mountains; good, base books judge at once in a employees. As elaborate parents go deep resources. Awful models might not speak also socially special le	AAAAAAAABKFAAAAA	ought	-4020.14	150.86	-22.25
+AAAAAAAAACNKBAAA	Certainly level fragments would not hear goo	AAAAAAAAIKBAAAAA	ese	282.66	302.04	6270.99
+AAAAAAAAADBDDAAA	Double jobs may not end in particular women. Wholly professional sources hold very whole honours. Widely front customers fix about in a figures. National, various w	AAAAAAAAKPDAAAAA	eing	2904.93	2523.31	-310.96
+AAAAAAAAADBDEAAA	Consistent, flat estates like around existing categories. Ther	AAAAAAAAEPAAAAAA	ese	-732.26	90.31	186.96
+AAAAAAAAADBHFAAA	Different, gradual friends can go blind, waste trees. Over young arms go just probably likely years; separate reports draw little tired exchanges;	AAAAAAAAIKBAAAAA	ese	-61.40	64.61	-81.00
+AAAAAAAAADDACAAA	High situa	AAAAAAAAKNDAAAAA	cally	-5682.95	706.34	3734.40
+AAAAAAAAADDBGAAA	Boys care pertaining to the references. Personal statements shall complete acutely crowds. Organizations become fine, political service	AAAAAAAABEFAAAAA	anti	2.85	50.22	-1476.65
+AAAAAAAAADGPBAAA	Domestic, magnific	AAAAAAAAOGCAAAAA	able	45.84	null	286.12
+AAAAAAAAADHCBAAA	Less ordinary students oug	AAAAAAAAEAAAAAAA	ese	-776.61	199.79	5879.72
+AAAAAAAAADJCAAAA	Brothers would count other partners; private patients know. Never joint farmers c	AAAAAAAADLCAAAAA	ought	-132.30	353.70	29.22
+AAAAAAAAADJPFAAA	For instance effective readers date nowhere by a jobs. Old, senior areas make however permanent, new purposes; italian, current troubles break usually open colleagues. Badly large pictures	AAAAAAAAAAEAAAAA	ese	-1341.04	379.31	688.16
+AAAAAAAAADKAAAAA	Original minutes sell studies. Very certain rocks	AAAAAAAAGGBAAAAA	eing	-2384.55	285.61	-1626.26
+AAAAAAAAADKGDAAA	Kind of 	AAAAAAAANGDAAAAA	ation	-48.16	573.84	197.14
+AAAAAAAAADLJCAAA	Very british questions shal	AAAAAAAAKIBAAAAA	ese	-3198.60	2482.53	-427.00
+AAAAAAAAADOLDAAA	Other, male observations might no	AAAAAAAAPAEAAAAA	n st	-5053.51	115.15	-1524.56
+AAAAAAAAADPEDAAA	Much old rats might jail developing groups. Military, basic mamm	AAAAAAAAIEBAAAAA	eing	-634.04	222.47	-4496.91
+AAAAAAAAADPJEAAA	English, soviet events will go please under an doctors. Famous particles should not leave very to a officers. Away ro	AAAAAAAAEAAAAAAA	ese	-2711.62	184.86	-2133.30
+AAAAAAAAADPKAAAA	Original, industrial cost	AAAAAAAAAMBAAAAA	eing	126.75	391.52	-374.17
+AAAAAAAAAEBJAAAA	Exactly naked words bear words. Chai	AAAAAAAAMEAAAAAA	cally	104.35	231.05	-0.12
+AAAAAAAAAECCDAAA	Then early conditions would not stay schemes. Inner, clear routes begin. Anonymous, various bombs will apply over days. Chinese, literary customers concentrate today then recent issues. T	AAAAAAAAGMBAAAAA	ese	-1282.05	274.65	-1221.36
+AAAAAAAAAECEAAAA	Substantial colleagues would take away sexual needs; surprising, commercial features feed abroad from 	AAAAAAAAGIAAAAAA	ese	-448.84	105.92	-213.07
+AAAAAAAAAEDNCAAA	Seriously different nati	AAAAAAAALFAAAAAA	ought	-288.21	455.47	717.30
+AAAAAAAAAEEDCAAA	Efforts might not pick therefore special proceedings. High, cheap differences used to supervise reco	AAAAAAAAENDAAAAA	bar	-1845.40	192.33	-2661.33
+AAAAAAAAAEFNDAAA	Simple, sole ships occur furthermore. Strong details must poison long strong, particular drawings; please b	AAAAAAAAKNAAAAAA	eing	-104.22	64.32	-1627.20
+AAAAAAAAAEGMBAAA	Always dead services add available, fine roots; american, cold children will include long with the forces. Ages cannot include	AAAAAAAAGAFAAAAA	cally	-696.57	139.08	-1303.64
+AAAAAAAAAELMBAAA	Applications would not suppose else for a houses. Arts sh	AAAAAAAABGDAAAAA	anti	-1111.04	513.10	2990.83
+AAAAAAAAAEMBCAAA	Interests shall take possible, healthy requirements. Slow possibilities sign overall, compatible exercises. Short bones shall announce programmes. Ot	AAAAAAAADCFAAAAA	anti	-592.66	128.71	-1516.20
+AAAAAAAAAENBEAAA	Normal remains 	AAAAAAAAFOAAAAAA	n st	137.70	435.42	-381.50
+AAAAAAAAAEPLCAAA	Regular citizens work in a preparations. Remote, important months participate final teachers. Horizontal schools might dry everywhere mediterranean letters. Most significant commitments	AAAAAAAADICAAAAA	pri	-6439.15	1450.12	1361.28
+AAAAAAAAAFCAEAAA	Usually national minutes involve more 	AAAAAAAACNEAAAAA	ese	95.70	93.26	-356.06
+AAAAAAAAAFGJDAAA	Fine doctors show residential parents. Lives d	AAAAAAAAPABAAAAA	ought	776.91	1066.92	-297.36
+AAAAAAAAAFMJFAAA	Financ	AAAAAAAAMJBAAAAA	able	-5966.93	631.95	-586.71
+AAAAAAAAAFMMFAAA	Possibly minute foundations post; charges can incorp	AAAAAAAADKAAAAAA	pri	1526.50	2532.32	-4075.22
+AAAAAAAAAFNJCAAA	Here short-term farmers may consider away from a men. Fruits must remove indeed just new pa	AAAAAAAALMFAAAAA	pri	-47.04	103.57	-340.46
+AAAAAAAAAFNPEAAA	At least concerned authors adopt just brown, federal 	AAAAAAAAKKAAAAAA	bar	-538.74	426.49	-625.20
+AAAAAAAAAFOIEAAA	Books find long men. Living, new objections can play contracts. Achievements diminish contracts. At least significant theorie	AAAAAAAAKAAAAAAA	bar	-0.56	74.33	1671.16
+AAAAAAAAAGBJDAAA	Whole cases might not appreciate more different classes. Only, financial hands may m	AAAAAAAAOFBAAAAA	bar	-57.60	251.69	265.03
+AAAAAAAAAGBPBAAA	Just other courts could not believe forward dry cars. Countries worry all members. Increasingly absolute councillors pull impli	AAAAAAAAGCFAAAAA	eing	772.28	3327.55	-2818.92
+AAAAAAAAAGIDFAAA	Then young groups adjust 	AAAAAAAAGBAAAAAA	able	-1587.56	182.68	-2634.30
+AAAAAAAAAGJAEAAA	Free, rich delegates will not consider parties. Short, nuclear stones find finally real agents; details impose here possible, appropriate results. Possible, sure stations used	AAAAAAAAOAFAAAAA	ese	521.86	153.64	-5.10
+AAAAAAAAAGJGBAAA	Windows go ever national roses. Especially good families stand damages. Overall, unique interests deal di	AAAAAAAAMEAAAAAA	cally	-640.98	157.62	144.29
+AAAAAAAAAGMBBAAA	Likely cases prove just men. In addition key changes make recent words. Socia	AAAAAAAAFHBAAAAA	pri	-2850.16	2247.41	-20.07
+AAAAAAAAAGMFFAAA	New, particular children could	AAAAAAAABFBAAAAA	ation	-1648.20	410.73	-510.83
+AAAAAAAAAGPCCAAA	Deep joint rates help still low, right cases. Like sources use relatively miserable schemes. Never french children must not hear; black legs wipe again laboratories. So chief proceedings	AAAAAAAAEKAAAAAA	ese	-1075.50	325.78	3752.75
+AAAAAAAAAGPLCAAA	Red, new files re	AAAAAAAANGDAAAAA	ation	-1709.40	339.83	-618.28
+AAAAAAAAAHBFEAAA	Patien	AAAAAAAAGAEAAAAA	bar	-2096.16	965.36	-1101.60
+AAAAAAAAAHBHFAAA	Necessary, old facts ensure nevertheless into a houses. Things ought to develop over others. Other, positive operations would win now practical managers; canadian, dark methods must not see splendi	AAAAAAAAEBAAAAAA	bar	-29.12	44.28	173.25
+AAAAAAAAAHCCAAAA	Fingers go instead vast, high premises. Modern artists continue shortly specified, real mothers. Probably cri	AAAAAAAAGGCAAAAA	ese	-209.61	151.54	-305.71
+AAAAAAAAAHDABAAA	Future years spend for instance with the lines; weeks explore on the implications. Then public attitudes used to offer. Large stories cannot call	AAAAAAAACGDAAAAA	cally	7.20	113.25	23.52
+AAAAAAAAAHFHDAAA	Victorian faces ought to fool here minor doctors. Texts understand under mental, great countries	AAAAAAAANPDAAAAA	ought	-6213.84	1688.45	-56.52
+AAAAAAAAAHFICAAA	Sole, powerful aspects must know only substantial	AAAAAAAAMGBAAAAA	ese	355.94	325.35	2872.46
+AAAAAAAAAHKAAAAA	Years cannot attract frantically. Low designers think with a subsidies. Clear, joint forests go especially simple, tiny complaints. Lists can run never strong	AAAAAAAAKHCAAAAA	ese	483.22	798.88	-374.81
+AAAAAAAAAHOODAAA	Con	AAAAAAAAONEAAAAA	cally	-8.26	17.51	583.22
+AAAAAAAAAHPGBAAA	Severe areas shall ignore barely things. Stupid pupils pour members. Suitable colleagues used to	AAAAAAAAMABAAAAA	eing	-5.66	327.80	-1008.00
+AAAAAAAAAIAPDAAA	Tonnes might leave again. Texts occur; material, central cars get	AAAAAAAADICAAAAA	pri	-3747.45	458.66	17.22
+AAAAAAAAAICBGAAA	Things comm	AAAAAAAABJDAAAAA	pri	1464.96	852.03	38.69
+AAAAAAAAAICKFAAA	Useful, worried duties use. Only specific designers could go legal facilities; also national reforms used to approve fairly professional churches;	AAAAAAAAAHDAAAAA	bar	1983.08	555.20	-7794.33
+AAAAAAAAAIDOBAAA	Major eyes ought to give informal inches. Following feelings might earn too. Socially political require	AAAAAAAAKIEAAAAA	able	-30.05	90.12	3901.77
+AAAAAAAAAIGLBAAA	Local payments mean as skilled, great procedures. Related economies think later fo	AAAAAAAAEKAAAAAA	ese	59.75	146.95	143.26
+AAAAAAAAAIIDBAAA	General workers may make	AAAAAAAAICEAAAAA	ese	-692.76	95.82	-3183.66
+AAAAAAAAAIIFBAAA	Other, good groups get particularly major days. Sad negotiations may shoot so pretty	AAAAAAAAKDBAAAAA	ese	-87.12	890.96	-362.22
+AAAAAAAAAIKABAAA	True, running mothers shall realise almost much concerned children. Certain, separate months mi	AAAAAAAAKDEAAAAA	able	-552.11	252.77	347.76
+AAAAAAAAAIKMBAAA	Marked, past offenders should not talk. B	AAAAAAAAMLAAAAAA	eing	39.56	65.12	-766.96
+AAAAAAAAAILFBAAA	Procedures sell a little little, very companies. Guilty, international connections doubt weak reforms. Direct minera	AAAAAAAAHBFAAAAA	pri	-1517.81	1900.43	5313.60
+AAAAAAAAAIOIBAAA	More historical charges like double, ex	AAAAAAAAIKCAAAAA	bar	406.35	2328.46	542.44
+AAAAAAAAAIOIEAAA	Briefly powerful rules used 	AAAAAAAAALDAAAAA	ese	-18.00	47.05	-38.16
+AAAAAAAAAJAHBAAA	Front, southern houses can pay aside after a authorities. Papers help p	AAAAAAAACIDAAAAA	eing	633.65	236.28	251.72
+AAAAAAAAAJALCAAA	Fundamental, passive losses let very at a example	AAAAAAAABDDAAAAA	ation	-39.52	168.20	-173.94
+AAAAAAAAAJBABAAA	Arab pounds get as. As favorable subjects document somewhere short, whole materials. Following, chief months oug	AAAAAAAAKMAAAAAA	able	-1805.10	682.08	-1728.54
+AAAAAAAAAJBCCAAA	Broad months might knock able, possible pictures. Paintings used to stay in a difficulties. Good artists suggest markedly under a activ	AAAAAAAAACFAAAAA	able	980.73	89.34	-858.60
+AAAAAAAAAJEMDAAA	Quick folk come much twice confident quarters. Yet likely powers give existing, general runs; full, separate terms agree british complaints. 	AAAAAAAAEDEAAAAA	cally	-1258.00	694.48	-3186.29
+AAAAAAAAAJFECAAA	Periods ought to wander very old, subtle arms. Scarcely serious writers can talk now labour st	AAAAAAAAFKEAAAAA	n st	3571.10	2492.15	796.50
+AAAAAAAAAJFOAAAA	Fiscal times carry suddenly right events. Perhaps young months look below abilities. Still certain 	AAAAAAAACOBAAAAA	able	-153.92	66.69	74.20
+AAAAAAAAAJGDCAAA	British, local children would help aft	AAAAAAAAGEAAAAAA	bar	6249.58	5765.54	397.98
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query25
+select i_item_id ,i_item_desc ,s_store_id ,s_store_name ,sum(ss_net_profit) as store_sales_profit ,sum(sr_net_loss) as store_returns_loss ,sum(cs_net_profit) as catalog_sales_profit from store_sales ,store_returns ,catalog_sales ,date_dim d1 ,date_dim d2 ,date_dim d3 ,store ,item where d1.d_moy = 4 and d1.d_year = 2000 and d1.d_date_sk = ss_sold_date_sk and i_item_sk = ss_item_sk and s_store_sk = ss_store_sk and ss_customer_sk = sr_customer_sk and ss_item_sk = sr_item_sk and ss_ticket_number = sr_ticket_number and sr_returned_date_sk = d2.d_date_sk and d2.d_moy               between 4 and  10 and d2.d_year              = 2000 and sr_customer_sk = cs_bill_customer_sk and sr_item_sk = cs_item_sk and cs_sold_date_sk = d3.d_date_sk and d3.d_moy               between 4 and  10 and d3.d_year              = 2000 group by i_item_id ,i_item_desc ,s_store_id ,s_store_name order by i_item_id ,i_item_desc ,s_store_id ,s_store_name limit 100
+
+</samplerData>
+</sample>
+<sample t="229203" lt="229143" ts="1600622117556" s="true" lb="query29" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="16123" ng="1" na="1">
+  <responseData class="java.lang.String">i_item_id	i_item_desc	s_store_id	s_store_name	store_sales_quantity	store_returns_quantity	catalog_sales_quantity
+AAAAAAAAAAABBAAA	Political, original sites assist funds; simple employees travel parts. Reasonable problems make openly. Also white attempts must	AAAAAAAACKFAAAAA	able	null	null	null
+AAAAAAAAAAACGAAA	Sorry oper	AAAAAAAAJFFAAAAA	n st	null	null	null
+AAAAAAAAAABNFAAA	Days may understand perhaps full procedures. Famous, unemployed options incorporate national services. Bloody, mass years he	AAAAAAAAEBFAAAAA	bar	null	null	null
+AAAAAAAAAAEDBAAA	Little regulatory views shall lead closer. Current names include so british, free waters. Wrong, bright matches may adopt international devices. Social parts press obviously. Present centres will	AAAAAAAADJBAAAAA	pri	null	null	null
+AAAAAAAAAAEJEAAA	Central, middle heads detect long under a borders. Both russian teachers try in order. Emotions start.	AAAAAAAANKFAAAAA	pri	null	null	null
+AAAAAAAAAAFFDAAA	Sound children draw very early new margins. Modest, strong eyes should appl	AAAAAAAAMNDAAAAA	eing	null	null	null
+AAAAAAAAAAGMBAAA	Other members will not mind with the ministers. Deaf, small lists can achieve only principles. Standards acknowledge once so main benefits. Probably colonial traders march all welsh advertisements	AAAAAAAACFDAAAAA	bar	null	null	null
+AAAAAAAAAAHGBAAA	Wrong, large clothes can find. Various, rural years adopt successful, distinguish	AAAAAAAAOKCAAAAA	cally	null	null	null
+AAAAAAAAAAHIEAAA	Films fall frequently public techniques. Ministers move gently proceedings. Mice should assure western, other cells. Yet original meetings seek even large problems. Services project also. Never	AAAAAAAAMJCAAAAA	eing	null	null	null
+AAAAAAAAAAIDAAAA	General, planned allowances ought to confuse recommendations. Direct, foreign details should not to	AAAAAAAACHEAAAAA	eing	null	null	null
+AAAAAAAAAAIHFAAA	Strangely necessary supporters cannot examine here workers. Attitudes take indeed even medium variations. Problems cannot pay all different, tot	AAAAAAAAACAAAAAA	able	null	null	null
+AAAAAAAAAAIPDAAA	Statistical, centr	AAAAAAAADABAAAAA	n st	null	null	null
+AAAAAAAAAAJFAAAA	Quantit	AAAAAAAAJKDAAAAA	ation	null	null	null
+AAAAAAAAAAJPCAAA	Below inappropriate shares used to bring colonies. Aware, wrong terms would not call in a ways. Big,	AAAAAAAANDAAAAAA	ought	null	null	null
+AAAAAAAAAAKFFAAA	Windows determine now heavy alternatives; free months could not sit in the levels. Financial, small problems can expect certainly at all elderly hands. Mere, complete sport	AAAAAAAAOHFAAAAA	cally	null	null	null
+AAAAAAAAAALOAAAA	Only primary assets can talk here total social guards. Equal eggs should not know still warm children; here royal teachers might expose managers. Arts give carefu	AAAAAAAAEGBAAAAA		null	null	null
+AAAAAAAAAAMLDAAA	Either other policies become only with a judges. Groups shall not seek unanimously hours. Personal, french kids take almost only public balls; more economic origins complement however. Substantial oc	AAAAAAAAJNDAAAAA	anti	null	null	null
+AAAAAAAAAANIEAAA	Good, surprised books slip hence within a effects. White, public users could evade video-taped	AAAAAAAAKICAAAAA	bar	null	null	null
+AAAAAAAAAAOPDAAA	Detailed days	AAAAAAAAJPBAAAAA		null	null	null
+AAAAAAAAAAPPCAAA	Nuclear terms would not offer most on a limitations. Very digital instruments manage also ways. Rumours might see methods. International, able mechanisms may	AAAAAAAAGLDAAAAA	bar	null	null	null
+AAAAAAAAABADBAAA	Certain, economic modes invite now social articles. Stupid decades house relatively costs. Physical, good crews could sta	AAAAAAAACLDAAAAA	cally	null	null	null
+AAAAAAAAABAKDAAA	Private, clear villages could 	AAAAAAAANFEAAAAA	ation	null	null	null
+AAAAAAAAABDFBAAA	International hopes should not comply wholly british members. Good arts provide re	AAAAAAAAOHBAAAAA	able	null	null	null
+AAAAAAAAABENCAAA	Clothes give well at the individuals. Members introduce. Obvious farmers send finally common, occupational men. Hard, old eyes should not give in a systems. Emotional, chines	AAAAAAAAOHFAAAAA	cally	null	null	null
+AAAAAAAAABEOEAAA	Royal standards may provide advisory, large tables. Similar oppo	AAAAAAAAMMEAAAAA	eing	null	null	null
+AAAAAAAAABFLFAAA	Physical courts boost afraid products. 	AAAAAAAAPABAAAAA	ought	null	null	null
+AAAAAAAAABFOFAAA	Different, new tales come peacefully to a letters. Values lead. False universities will choose merely available scholars. Remote, considerable children shall assume. Past, new positions 	AAAAAAAAHKFAAAAA	ation	null	null	null
+AAAAAAAAABHAAAAA	Old sources pull later examples. Rich others ought to e	AAAAAAAAAKAAAAAA	bar	null	null	null
+AAAAAAAAABIBBAAA	Soon social rebels may take even. Conditions drop somewhere original poets. Ever old-fashioned ch	AAAAAAAACIDAAAAA	eing	null	null	null
+AAAAAAAAABILDAAA	Goods secure patterns. Then eastern years used to hear directly late rates; local, future thousands mean more; crucial post	AAAAAAAABADAAAAA	n st	null	null	null
+AAAAAAAAABKBFAAA	Always reasonable individuals care now so dramatic traditions. All comprehensive inhabitants might seem again standard, old cases. Gentlemen may not reduce below c	AAAAAAAAJKDAAAAA	ation	null	null	null
+AAAAAAAAABKDFAAA	Now only drugs will compile through the men. Economic, various details ought to turn behind similarly simple markets. Scottish,	AAAAAAAAMJFAAAAA	cally	null	null	null
+AAAAAAAAABKJFAAA	Problems ought to result please only personal managers. Quite formal branches learn direct, little police. Modern, parental bodies ensure however friends. Lonely authorities grind	AAAAAAAAOPCAAAAA	cally	null	null	null
+AAAAAAAAABMBGAAA	Top systems may put so particularly free statements. White pains score p	AAAAAAAACADAAAAA	bar	null	null	null
+AAAAAAAAABMICAAA	Rather used interests might improve at least. Long-term, low activities could n	AAAAAAAAPHAAAAAA	ation	null	null	null
+AAAAAAAAABNEEAAA	Inc, detailed authorities must not think more than in a insects. Other details look able ears. Conf	AAAAAAAALFDAAAAA	n st	null	null	null
+AAAAAAAAABOMCAAA	Pretty brown classes should not change new reports. Vertical, private types get physically likely days; scarcely competitive materials should not live	AAAAAAAAEEAAAAAA	eing	null	null	null
+AAAAAAAAACACBAAA	Capitalist years build just royal, red conditions. Professional criteria shall not mount therein wooden 	AAAAAAAAJIFAAAAA	ation	null	null	null
+AAAAAAAAACAHFAAA	Pounds form never informal horses. Executive, spanish issues can promote yesterday vast, certain years. Today labour pictures could raise. English, good ways used to disentangle furiously over	AAAAAAAACCAAAAAA	ese	null	null	null
+AAAAAAAAACBBGAAA	Forward groups expect other co	AAAAAAAAHPDAAAAA	anti	null	null	null
+AAAAAAAAACBJCAAA	Stocks go so available, new numbers; early animals could keep today electoral, public users. Indeed appropriate countries migh	AAAAAAAABBFAAAAA	ation	null	null	null
+AAAAAAAAACCABAAA	Letters help always foreign men. Meanwhile english days should reassur	AAAAAAAAAFFAAAAA	bar	null	null	null
+AAAAAAAAACCCFAAA	Comfortable results could get quicker prospects; sports see recently positions. Dead needs can look general evenings. High relationships can apply clearly net nurses; awkward farmers could ma	AAAAAAAANLEAAAAA	pri	null	null	null
+AAAAAAAAACCKCAAA	Afraid rights could n	AAAAAAAAKGDAAAAA	ese	null	null	null
+AAAAAAAAACDBFAAA	Considerable, available artists make just large, capable sectors. Fundamental items go. Theories see therefore so	AAAAAAAAHOEAAAAA	anti	null	null	null
+AAAAAAAAACEGBAAA	Individuals could not wear widely. Later priva	AAAAAAAAIECAAAAA	ese	null	null	null
+AAAAAAAAACEHDAAA	Then valuable hours organise obviously obvious, full messages. Impossible, very prices express italian transactions; fam	AAAAAAAADLCAAAAA	ought	null	null	null
+AAAAAAAAACEJFAAA	Of cou	AAAAAAAACNBAAAAA	cally	null	null	null
+AAAAAAAAACGCBAAA	Regular institutions go both. Again usual jews could lead into a places. Available, hot workers might establish ago by no means ordinary others. Standards form blindly p	AAAAAAAAJAEAAAAA	pri	null	null	null
+AAAAAAAAACGIEAAA	Parties see from a departments. Clean, racial methods discourage as. Experiences must mean also. La	AAAAAAAAPMBAAAAA	pri	null	null	null
+AAAAAAAAACGKFAAA	Low, high answers can see later current visitors. Crucial, private studies should find unnecessarily days. Economic, white words shall destroy decided	AAAAAAAAFDFAAAAA	pri	null	null	null
+AAAAAAAAACHDEAAA	Public, labour years tell rats. Relatively broken expectations used to feel separate, dom	AAAAAAAAMPBAAAAA	eing	null	null	null
+AAAAAAAAACIBAAAA	Yet essential facts constitute following races. Grou	AAAAAAAAKLFAAAAA	cally	null	null	null
+AAAAAAAAACIFBAAA	Foreign bottles could imply future arts. Boys could not result silly, whole drivers. Full, social corners see easily in view of a games; different, french books make as modest, adjacent authorities	AAAAAAAAEDBAAAAA	eing	null	null	null
+AAAAAAAAACKLFAAA	Statements would prove kids; no doubt european 	AAAAAAAAGCDAAAAA	cally	null	null	null
+AAAAAAAAACKNEAAA	Also official feelings would result o	AAAAAAAAAFFAAAAA	bar	null	null	null
+AAAAAAAAACLCEAAA	Maximum, regular arms exercise inc cuts. Good, other models keep; good figures begin ho	AAAAAAAAGKAAAAAA	cally	null	null	null
+AAAAAAAAACLNAAAA	Pupils acquire func	AAAAAAAADDEAAAAA	anti	null	null	null
+AAAAAAAAACMOAAAA	Proposals might run little. Nearly solid friends receive much wrong papers. Historic, content weeks might remain there. Anxious leaves appeal liable matters. Personal, cli	AAAAAAAADGEAAAAA	pri	null	null	null
+AAAAAAAAACNHEAAA	Police may not conclude more also useful shoes. Mild, wild lakes cannot think often good studie	AAAAAAAAENCAAAAA	ese	null	null	null
+AAAAAAAAACODDAAA	Computers come never similar concerns; classical, public visitors shall not lead still most top hea	AAAAAAAAENFAAAAA	able	null	null	null
+AAAAAAAAACODDAAA	Computers come never similar concerns; classical, public visitors shall not lead still most top hea	AAAAAAAAMHDAAAAA	able	null	null	null
+AAAAAAAAACOHCAAA	Important, original buses expect soon; streets write international, radical resources. Modern articles become here old eyes. Little	AAAAAAAAICAAAAAA	bar	null	null	null
+AAAAAAAAACPCEAAA	Links make about young facilities.	AAAAAAAAEDEAAAAA	cally	null	null	null
+AAAAAAAAACPDDAAA	In between similar sources may gather merely la	AAAAAAAAAHDAAAAA	bar	null	null	null
+AAAAAAAAACPFEAAA	Honest, english intervals tur	AAAAAAAAIAFAAAAA	eing	null	null	null
+AAAAAAAAACPGDAAA	Religious, domestic others get strictly in the men. Defendants may not steal here prime, good questions; areas can produce a	AAAAAAAACJFAAAAA	cally	null	null	null
+AAAAAAAAACPKEAAA	Open fortunes play difficult accidents.	AAAAAAAAEEDAAAAA	cally	null	null	null
+AAAAAAAAACPLDAAA	Legal, subject measures come also clear materials. Sexual, commercial supplies hold yesterday difficult, local companies. Twice european nations get occasionally councillors. Linear, electoral police 	AAAAAAAAMEEAAAAA	bar	null	null	null
+AAAAAAAAACPPAAAA	Pink, pu	AAAAAAAACJAAAAAA	cally	null	null	null
+AAAAAAAAADAIFAAA	Competent, a	AAAAAAAAEAEAAAAA	eing	null	null	null
+AAAAAAAAADALAAAA	Public, male duties could not tell already fundamental developments; growing, great sounds watch so as the faces. British c	AAAAAAAAGHDAAAAA	cally	null	null	null
+AAAAAAAAADALCAAA	Northern, chinese women tell in a women. Museums ask even. Mental corporations must not ask of course hours. Big, british pages must cause then poor materials. Lines could avoi	AAAAAAAAIDAAAAAA	cally	null	null	null
+AAAAAAAAADANEAAA	Experimental bits see as at a sports. Demonstrations exist bright, open months. Members mean women. Problems could prove parties; critical families talk then over a cells. Ev	AAAAAAAACNEAAAAA	ese	null	null	null
+AAAAAAAAADBOEAAA	Precise services define too good windows. Regulatory women put to a years. Police ask either famous thousands. Famous, individual costs shall defend. Areas help with the candidates. Dates shall go th	AAAAAAAACHEAAAAA	eing	null	null	null
+AAAAAAAAADCFBAAA	Logically deep trousers shall not haul and so on during a statements. Young, p	AAAAAAAAHLEAAAAA	ation	null	null	null
+AAAAAAAAADCLAAAA	Aspects might launch now probably soviet 	AAAAAAAAFPCAAAAA	ation	null	null	null
+AAAAAAAAADCPAAAA	Easy, solar hands used to loo	AAAAAAAANBFAAAAA	n st	null	null	null
+AAAAAAAAADDDEAAA	Religious, extra experiments meet either favourably happy chapters. Main contracts allow figures; romantic children control 	AAAAAAAAAEBAAAAA	bar	null	null	null
+AAAAAAAAADDEDAAA	Major, blind books care national trees. Never national directions may not stay long, joint interests. Great advances shall work hands. Then large rules could not find kinds. Funds shall not	AAAAAAAAJMBAAAAA	ation	null	null	null
+AAAAAAAAADDIFAAA	In order american others would take much; drugs rob at least; interesting power	AAAAAAAACOEAAAAA	bar	null	null	null
+AAAAAAAAADFADAAA	Often new words secure with an ships. Breasts should think no citizens. Auditors use often still working images. Still real relations define in t	AAAAAAAAGIDAAAAA	able	null	null	null
+AAAAAAAAADFEFAAA	Other volumes will add centuries. Other, ultimate thousands will learn already sudden arg	AAAAAAAAGPCAAAAA	eing	null	null	null
+AAAAAAAAADFGAAAA	Great, necessary assumptions call quickly women. Public police answer probably still serious children. Roughly cultural years improve changes. Essential, easy roads make. More 	AAAAAAAAHLBAAAAA	n st	null	null	null
+AAAAAAAAADFLBAAA	Best primary statements used to call almost then united guests. Vital programmes may not buy equally sources. Jobs mind also very sure ch	AAAAAAAAOGDAAAAA	eing	null	null	null
+AAAAAAAAADHOEAAA	New, simple numbers will reproduce initially usefully difficult details. At least various volumes cannot go. Concerned purposes could get worldwide sexual, a	AAAAAAAACKCAAAAA	ese	null	null	null
+AAAAAAAAADIAAAAA	Lips see outside quickly protective systems. 	AAAAAAAAKCBAAAAA	eing	null	null	null
+AAAAAAAAADIFAAAA	So main parents become sure hot, unfair individuals. Substantial pupils contribute also successful proposals. Only independent places undertake casually legal, old babies. Inte	AAAAAAAACNBAAAAA	cally	null	null	null
+AAAAAAAAADJDBAAA	Issues order also famous books. New, well-known ages please very plants. That is necessary facilities require rural, slight tickets. Forward open banks move usefully war	AAAAAAAAMFDAAAAA	bar	null	null	null
+AAAAAAAAADJDEAAA	Relatives can collect always for the women. Pressures must mean attractive, adva	AAAAAAAAJOCAAAAA	anti	null	null	null
+AAAAAAAAADKBFAAA	Candidates might not sit unable, foreign games. Deep elaborate things must repay. There happy members use groups. Big firms must come once inner yea	AAAAAAAACMFAAAAA	ese	null	null	null
+AAAAAAAAADKCEAAA	Services provide apart apparently evolutionary cells. Joint, eastern women prescribe just very, genuine eyes. Trying products prevent. Results reduce similarly relevant tal	AAAAAAAAALFAAAAA	cally	null	null	null
+AAAAAAAAADLEEAAA	Clean needs ought to pull standard teeth; circumstances should know only other years. Years must allow just difficult things. Videos should possess her	AAAAAAAACPDAAAAA	bar	null	null	null
+AAAAAAAAADLIDAAA	Heavy miles shall say sorry knees. Familiar, usual scales promote directly individual, ol	AAAAAAAAIODAAAAA	bar	null	null	null
+AAAAAAAAADMBBAAA	Always difficult steps should respond behind a children. Cars carry by now bad interests; journals could not let less up to a 	AAAAAAAAHGAAAAAA	pri	null	null	null
+AAAAAAAAADMKBAAA	Points must not enact through the surveys. Ideas could keep; various plans can influence for 	AAAAAAAAEHAAAAAA	cally	null	null	null
+AAAAAAAAADMPEAAA	Great, low books stand then comprehensive, bare areas. Light, c	AAAAAAAAKADAAAAA	eing	null	null	null
+AAAAAAAAADNLFAAA	Also new trees should not buy either at a times; social, dead restric	AAAAAAAAIEBAAAAA	eing	null	null	null
+AAAAAAAAADNPEAAA	Evident, national materials take ce	AAAAAAAAACCAAAAA	ese	null	null	null
+AAAAAAAAADOAGAAA	Other police might not 	AAAAAAAAICBAAAAA	cally	null	null	null
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query29
+select i_item_id ,i_item_desc ,s_store_id ,s_store_name ,stddev_samp(ss_quantity)        as store_sales_quantity ,stddev_samp(sr_return_quantity) as store_returns_quantity ,stddev_samp(cs_quantity)        as catalog_sales_quantity from store_sales ,store_returns ,catalog_sales ,date_dim             d1 ,date_dim             d2 ,date_dim             d3 ,store ,item where d1.d_moy               = 4 and d1.d_year              = 1998 and d1.d_date_sk           = ss_sold_date_sk and i_item_sk              = ss_item_sk and s_store_sk             = ss_store_sk and ss_customer_sk         = sr_customer_sk and ss_item_sk             = sr_item_sk and ss_ticket_number       = sr_ticket_number and sr_returned_date_sk    = d2.d_date_sk and d2.d_moy               between 4 and  4 + 3 and d2.d_year              = 1998 and sr_customer_sk         = cs_bill_customer_sk and sr_item_sk             = cs_item_sk and cs_sold_date_sk        = d3.d_date_sk and d3.d_year              in (1998,1998+1,1998+2) group by i_item_id ,i_item_desc ,s_store_id ,s_store_name order by i_item_id ,i_item_desc ,s_store_id ,s_store_name limit 100
+
+</samplerData>
+</sample>
+<sample t="119324" lt="119258" ts="1600622236889" s="true" lb="query49" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="2850" ng="1" na="1">
+  <responseData class="java.lang.String">channel	item	return_ratio	return_rank	currency_rank
+catalog	283271	0E-20	1	294
+catalog	259565	0E-20	1	302
+catalog	235898	0E-20	1	318
+catalog	401009	0E-20	1	467
+catalog	34640	0E-20	1	514
+catalog	319799	0E-20	1	585
+catalog	85165	0E-20	1	651
+catalog	211997	0E-20	1	809
+catalog	143858	0E-20	1	996
+catalog	37901	0E-20	1	1173
+catalog	118619	0E-20	1	1232
+catalog	399517	0E-20	1	1276
+catalog	343646	0E-20	1	1290
+catalog	52928	0E-20	1	1513
+catalog	341018	0E-20	1	1641
+catalog	296354	0E-20	1	1663
+catalog	146539	0E-20	1	1847
+catalog	15908	0E-20	1	1877
+catalog	20581	0E-20	1	1933
+catalog	199505	0E-20	1	1933
+catalog	7772	0E-20	1	1978
+catalog	27497	0E-20	1	2045
+catalog	159145	0E-20	1	2093
+catalog	400525	0E-20	1	2093
+catalog	6631	0E-20	1	2296
+catalog	230887	0E-20	1	2365
+catalog	256919	0E-20	1	2397
+catalog	295963	0E-20	1	2824
+catalog	204757	0E-20	1	2877
+catalog	87656	0E-20	1	2978
+catalog	327026	0E-20	1	3116
+catalog	55387	0E-20	1	3160
+catalog	253235	0E-20	1	3484
+catalog	300416	0E-20	1	3601
+catalog	6085	0E-20	1	3639
+catalog	258527	0E-20	1	3692
+catalog	305168	0E-20	1	3763
+catalog	11669	0E-20	1	3816
+catalog	241313	0E-20	1	4083
+catalog	258440	0E-20	1	4083
+catalog	42067	0E-20	1	4170
+catalog	390163	0E-20	1	4170
+catalog	253232	0E-20	1	4215
+catalog	386378	0E-20	1	4269
+catalog	99416	0E-20	1	4530
+catalog	217621	0E-20	1	4530
+catalog	112802	0E-20	1	4717
+catalog	23285	0E-20	1	4729
+catalog	238337	0E-20	1	4820
+catalog	312959	0E-20	1	4849
+catalog	309689	0E-20	1	5001
+catalog	213422	0E-20	1	5323
+catalog	94910	0E-20	1	5617
+catalog	246956	0E-20	1	5662
+catalog	356327	0E-20	1	6023
+catalog	255323	0E-20	1	6601
+catalog	199003	0E-20	1	6895
+catalog	76309	0E-20	1	6990
+catalog	234794	0E-20	1	6990
+catalog	237973	0E-20	1	7231
+catalog	322208	0E-20	1	7692
+catalog	130892	0E-20	1	7734
+catalog	102067	0E-20	1	7927
+catalog	100561	0E-20	1	8606
+catalog	366095	0E-20	1	9476
+catalog	22769	0E-20	1	10283
+catalog	396800	0E-20	1	10283
+catalog	226945	0E-20	1	10531
+catalog	108641	0E-20	1	10772
+catalog	3043	0E-20	1	11008
+catalog	218737	0E-20	1	11034
+catalog	236381	0E-20	1	11662
+catalog	15218	0E-20	1	13168
+catalog	250807	0E-20	1	13168
+catalog	309017	0E-20	1	13250
+catalog	125011	0E-20	1	13448
+catalog	237098	0E-20	1	13579
+catalog	320309	0E-20	1	13579
+catalog	40403	0E-20	1	14111
+catalog	380063	0E-20	1	14192
+catalog	164503	0E-20	1	14438
+catalog	173228	0E-20	1	15110
+catalog	353461	0E-20	1	15521
+catalog	397519	0E-20	1	15654
+catalog	140585	0E-20	1	16044
+catalog	244021	0E-20	1	16147
+catalog	323729	0E-20	1	16384
+catalog	299948	0E-20	1	17260
+catalog	314972	0E-20	1	17719
+catalog	333685	0E-20	1	18250
+catalog	315463	0E-20	1	18504
+catalog	194504	0E-20	1	19028
+catalog	173378	0E-20	1	19535
+catalog	125021	0E-20	1	19661
+catalog	175808	0E-20	1	21587
+catalog	170780	0E-20	1	22091
+catalog	241139	0E-20	1	22373
+catalog	154961	0E-20	1	22422
+catalog	47923	0E-20	1	23158
+catalog	80941	0E-20	1	23158
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query49
+select  channel, item, return_ratio, return_rank, currency_rank from (select &apos;web&apos; as channel ,web.item as item ,web.return_ratio as return_ratio ,web.return_rank as return_rank ,web.currency_rank as currency_rank from ( select item ,return_ratio ,currency_ratio ,rank() over (order by return_ratio) as return_rank ,rank() over (order by currency_ratio) as currency_rank from (	select ws.ws_item_sk as item ,(cast(sum(coalesce(wr.wr_return_quantity,0)) as decimal(15,4))/ cast(sum(coalesce(ws.ws_quantity,0)) as decimal(15,4) )) as return_ratio ,(cast(sum(coalesce(wr.wr_return_amt,0)) as decimal(15,4))/ cast(sum(coalesce(ws.ws_net_paid,0)) as decimal(15,4) )) as currency_ratio from web_sales ws left outer join web_returns wr on (ws.ws_order_number = wr.wr_order_number and ws.ws_item_sk = wr.wr_item_sk) ,date_dim where wr.wr_return_amt &gt; 10000 and ws.ws_net_profit &gt; 1 and ws.ws_net_paid &gt; 0 and ws.ws_quantity &gt; 0 and ws_sold_date_sk = d_date_sk and d_year = 2000 and d_moy = 12 group by ws.ws_item_sk ) in_web ) web where ( web.return_rank &lt;= 10 or web.currency_rank &lt;= 10 ) union select &apos;catalog&apos; as channel ,catalog.item as item ,catalog.return_ratio as return_ratio ,catalog.return_rank as return_rank ,catalog.currency_rank as currency_rank from ( select item ,return_ratio ,currency_ratio ,rank() over (order by return_ratio) as return_rank ,rank() over (order by currency_ratio) as currency_rank from (	select cs.cs_item_sk as item ,(cast(sum(coalesce(cr.cr_return_quantity,0)) as decimal(15,4))/ cast(sum(coalesce(cs.cs_quantity,0)) as decimal(15,4) )) as return_ratio ,(cast(sum(coalesce(cr.cr_return_amount,0)) as decimal(15,4))/ cast(sum(coalesce(cs.cs_net_paid,0)) as decimal(15,4) )) as currency_ratio from catalog_sales cs left outer join catalog_returns cr on (cs.cs_order_number = cr.cr_order_number and cs.cs_item_sk = cr.cr_item_sk) ,date_dim where cr.cr_return_amount &gt; 10000 and cs.cs_net_profit &gt; 1 and cs.cs_net_paid &gt; 0 and cs.cs_quantity &gt; 0 and cs_sold_date_sk = d_date_sk and d_year = 2000 and d_moy = 12 group by cs.cs_item_sk ) in_cat ) catalog where ( catalog.return_rank &lt;= 10 or catalog.currency_rank &lt;=10 ) union select &apos;store&apos; as channel ,store.item as item ,store.return_ratio as return_ratio ,store.return_rank as return_rank ,store.currency_rank as currency_rank from ( select item ,return_ratio ,currency_ratio ,rank() over (order by return_ratio) as return_rank ,rank() over (order by currency_ratio) as currency_rank from (	select sts.ss_item_sk as item ,(cast(sum(coalesce(sr.sr_return_quantity,0)) as decimal(15,4))/cast(sum(coalesce(sts.ss_quantity,0)) as decimal(15,4) )) as return_ratio ,(cast(sum(coalesce(sr.sr_return_amt,0)) as decimal(15,4))/cast(sum(coalesce(sts.ss_net_paid,0)) as decimal(15,4) )) as currency_ratio from store_sales sts left outer join store_returns sr on (sts.ss_ticket_number = sr.sr_ticket_number and sts.ss_item_sk = sr.sr_item_sk) ,date_dim where sr.sr_return_amt &gt; 10000 and sts.ss_net_profit &gt; 1 and sts.ss_net_paid &gt; 0 and sts.ss_quantity &gt; 0 and ss_sold_date_sk = d_date_sk and d_year = 2000 and d_moy = 12 group by sts.ss_item_sk ) in_store ) store where  ( store.return_rank &lt;= 10 or store.currency_rank &lt;= 10 ) ) y order by 1,4,5,2 limit 100
+
+</samplerData>
+</sample>
+<sample t="158510" lt="158448" ts="1600622395400" s="true" lb="query50" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="11187" ng="1" na="1">
+  <responseData class="java.lang.String">s_store_name	s_company_id	s_street_number	s_street_name	s_street_type	s_suite_number	s_city	s_county	s_state	s_zip	30 days	31-60 days	61-90 days	91-120 days	&gt;120 days
+	1			               	Suite 310 	Newtown		TN	31749     	8747	5967	3829	4881	8486
+	1		Chestnut Elm	Drive          	Suite 350 	Mill Creek		  	47395     	7857	6002	4751	3844	8511
+	1		Fourth Main	Circle         	Suite 180 	Hopewell	Perry County	  	60587     	8685	5907	4726	4936	8868
+	null			Pkwy           	Suite V   			NJ	09875     	8793	7062	4773	4802	10688
+	null		Fourth 	               	          	Union	Lunenburg County	  	28721     	8709	6084	4891	3669	8775
+	null		Valley Valley	               	Suite S   			  	71387     	8869	6081	3819	3938	8673
+able	1	113	South 	Parkway        	Suite 200 	Pine Hill	Contra Costa County	CA	99236     	7913	6138	3900	3889	7759
+able	1	115	Hickory 	Circle         	Suite N   	Clifton	Mobile County	AL	38014     	7798	8128	3876	4797	7767
+able	1	128	15th 	RD             	Suite T   	Winchester	Nuckolls County	NE	63252     	8838	7009	3833	3859	7607
+able	1	128	Church East	ST             	Suite U   	Oak Hill	Contra Costa County	CA	97838     	8776	6033	3878	3793	9632
+able	1	140	6th 	Avenue         	Suite 120 	Buffalo	Quay County	NM	87098     	9902	5952	4771	3924	7622
+able	1	148	River 2nd	Road           	Suite 10  	Pine Hill	Lea County	NM	89236     	7829	5939	4825	3957	7640
+able	1	17	Main 	Ct.            	Suite K   	Woodland	Baltimore County	MD	24854     	7796	6978	4910	3789	9775
+able	1	170	Mill 	Circle         	Suite J   	Cross Roads	Klamath County	OR	96894     	7785	6017	3823	3804	9764
+able	1	184	Main Elm	Ct.            	Suite 90  	Clinton	Richland County	OH	48222     	7729	5987	4916	4804	7580
+able	1	193	5th 	Ave            	Suite 420 	Winchester	Quay County	NM	83252     	7938	5959	3699	3732	8645
+able	1	194	Williams 6th	Way            	Suite D   	Needmore	Essex County	VT	09720     	7712	8092	4908	3866	7525
+able	1	197	Central Second	Cir.           	Suite H   	Farmington	Barrow County	GA	39145     	8953	8136	3772	3814	8680
+able	1	20	Main 	Boulevard      	Suite 140 	Highland Park	Dauphin County	PA	16534     	7825	6958	3823	4793	8722
+able	1	206	Main 	Pkwy           	Suite I   	Antioch	Salem County	NJ	09205     	7793	6934	3835	3813	8704
+able	1	227	8th 	Road           	Suite 290 	Hollywood	Salem County	NJ	08601     	7845	6088	3705	3872	7737
+able	1	228	Cherry 	Avenue         	Suite G   	Mill Creek	Camden County	GA	37395     	7564	5946	3710	4926	8704
+able	1	244	Maple Lakeview	Way            	Suite 430 	Smyrna	Carter County	OK	78119     	8965	6926	3854	3902	7576
+able	1	253	Pine Central	ST             	Suite O   	Needmore	Lunenburg County	VA	29120     	8895	8104	3827	3812	8640
+able	1	255	Sycamore 	Dr.            	Suite 410 	Corinth	Quay County	NM	87022     	7705	5952	3701	3739	7725
+able	1	259	11th Railroad	Street         	Suite 160 	Highland	Red River Parish	LA	79454     	7687	6030	3880	4912	8700
+able	1	292	Walnut North	Circle         	Suite Q   	Lebanon	Abbeville County	SC	22898     	8836	6025	4886	3736	7546
+able	1	293	7th Hill	Ave            	Suite W   	Unionville	Van Buren County	MI	41711     	7796	6930	5882	5793	8628
+able	1	300	Forest 	Lane           	Suite 230 	Springdale	Cocke County	TN	38883     	7779	5925	3767	3905	8667
+able	1	302	Walnut Madison	Wy             	Suite T   	Hillsdale	Sumner County	TN	33054     	7774	6016	4986	3729	8675
+able	1	31	1st 	RD             	Suite 270 	White Oak	Daviess County	MO	66668     	8834	6030	3876	3768	7639
+able	1	322	View 	Avenue         	Suite 20  	Deerfield	Coal County	OK	79840     	8835	5983	3714	3936	8648
+able	1	325	Walnut 	Circle         	Suite D   	Plainview	Jackson County	NC	23683     	8878	5962	3879	3692	7645
+able	1	329	Laurel West	Lane           	Suite N   	Milltown	Nuckolls County	NE	67534     	8928	6014	3830	4768	7554
+able	1	340	15th 	Drive          	Suite Q   	Bridgeport	Marshall County	IN	45817     	8840	7061	4753	3795	9743
+able	1	372	Valley Center	Lane           	Suite Q   	Monroe	Harmon County	OK	73984     	8811	6051	4908	3860	9834
+able	1	394	Main 	Road           	Suite 160 	Cedar Grove	Saginaw County	MI	40411     	7753	6003	4853	3812	7566
+able	1	400	Locust 	Lane           	Suite B   	Clinton	Montgomery County	KS	68222     	8875	5995	3860	3908	7601
+able	1	403	Poplar Wilson	Avenue         	Suite N   	Lincoln	Appanoose County	IA	51289     	7980	9146	3843	3869	9694
+able	1	407	Willow West	Ave            	Suite Q   	Independence	Nuckolls County	NE	68988     	10928	7171	4946	3757	10922
+able	1	427	Willow 10th	Cir.           	Suite 440 	Winchester	Richland County	OH	43252     	8937	7167	4873	4920	8679
+able	1	441	11th 	ST             	Suite H   	Dayton	Marshall County	IN	42633     	8859	6950	3857	3848	9713
+able	1	443	Hickory Sycamore	Street         	Suite C   	Unionville	Miller County	GA	31711     	8656	5788	4785	3758	8589
+able	1	452	Mill 	Lane           	Suite X   	Williamsburg	Dauphin County	PA	18336     	13286	5993	4906	3844	7638
+able	1	479	Park First	Lane           	Suite 20  	Riverview	Cocke County	TN	39003     	8970	6051	3676	3777	9720
+able	1	483	Dogwood 	Avenue         	Suite D   	Rosedale	Dade County	GA	32645     	8836	6021	3854	3866	9769
+able	1	49	Highland 1st	Drive          	Suite 80  	Harrisburg	Somerset County	MD	20974     	9944	8074	4786	4828	8506
+able	1	490	Fourth 	Cir.           	Suite T   	Jackson	Gage County	NE	69583     	7723	6025	3843	3848	7520
+able	1	521	Elm 	Dr.            	Suite C   	Glenwood	Fairfield County	SC	23511     	7813	6133	3817	5951	7693
+able	1	521	Fourth 12th	Lane           	Suite O   	Columbia	Abbeville County	SC	23292     	7871	5921	5979	4883	8806
+able	1	535	Locust 	Dr.            	Suite 90  	Liberty	Maverick County	TX	73451     	7822	6006	3834	3807	7556
+able	1	54	12th 	Cir.           	Suite B   	White Oak	Brazos County	TX	76668     	7856	5894	3718	4911	7668
+able	1	543	West Elm	Ln             	Suite A   	Franklin	Salem County	NJ	09701     	9977	7031	3846	6031	7515
+able	1	545	Pine 	ST             	Suite D   	Fairview	Richland County	OH	45709     	8960	6015	4740	3896	8724
+able	1	550	Ridge 	Cir.           	Suite 10  	Five Forks	Gage County	NE	62293     	11986	6109	4875	4944	7601
+able	1	554	Cherry 	Drive          	Suite I   	Cloverdale	Somerset County	MD	22000     	7739	6112	5903	3888	7627
+able	1	557	Elevnth 7th	Pkwy           	Suite L   	Farmington	Walker County	AL	39145     	9948	6173	4963	3803	8521
+able	1	562	8th 	Ln             	Suite 110 	Dayton	Somerset County	MD	22633     	8959	7143	3791	3867	9718
+able	1	571	First Main	Road           	Suite 130 	Maple Grove	Terry County	TX	78252     	8851	5863	3886	3804	8727
+able	1	589	8th 6th	Avenue         	Suite V   	Highland Park	Camden County	GA	36534     	8958	7060	3708	4957	8719
+able	1	605	Williams South	Ln             	Suite D   	Winchester	Bronx County	NY	13252     	7845	5911	3862	4878	9821
+able	1	610	Birch Sycamore	Parkway        	Suite 10  	Ashland	Jefferson Davis Parish	LA	74244     	7842	6039	4818	4780	7543
+able	1	617	3rd Sixth	ST             	Suite V   	Jefferson	Van Buren County	MI	41795     	8807	5987	3840	4876	9634
+able	1	62	15th 	Wy             	Suite 50  	Marion	Adams County	IN	40399     	9965	7028	5838	5925	8668
+able	1	633	Elm 	Way            	Suite 280 	Harrisburg	Halifax County	NC	20974     	8759	7131	4861	3832	8755
+able	1	634	Park 4th	Avenue         	Suite 70  	Woodland	Baltimore County	MD	24854     	10053	7021	3783	4768	8581
+able	1	667	Ridge Maple	Pkwy           	Suite X   	Sherwood Forest	Saginaw County	MI	46702     	9776	7096	3717	7063	7668
+able	1	667	Sunset 	Ct.            	Suite Q   	Springdale	Walker County	AL	38883     	7852	6062	3909	3671	9882
+able	1	672	Williams 2nd	Pkwy           	Suite 40  	Fairfield	Klamath County	OR	96192     	8920	6118	3872	3788	8509
+able	1	685	North Second	Road           	Suite Y   	Mount Pleasant	Oglethorpe County	GA	31933     	8896	6010	5996	3825	10725
+able	1	698	Highland 13th	Court          	Suite H   	Georgetown	Pennington County	MN	57057     	8942	5950	3895	3898	8642
+able	1	698	North Hill	Road           	Suite I   	Fairview	Raleigh County	WV	25709     	8796	7039	3744	3865	9662
+able	1	702	Cedar 6th	Blvd           	Suite 370 	Chester	Essex County	VT	06688     	8985	6907	3872	5994	8642
+able	1	707	View 	Ave            	Suite 150 	Belmont	Perry County	IL	60191     	7700	8251	3879	3821	8697
+able	1	714	Washington Forest	Boulevard      	Suite 350 	Corinth	Sumner County	TN	37022     	8686	6981	3850	3874	11915
+able	1	722	Railroad Spring	Ct.            	Suite M   	Pleasant Valley	Miller County	GA	32477     	9965	7107	3903	3873	7675
+able	1	727	North Forest	Avenue         	Suite H   	Fairview	Wilkinson County	GA	35709     	8893	8184	3660	3779	7635
+able	1	738	Miller 	Court          	Suite R   	Providence	Anderson County	KY	46614     	8909	8108	3643	3882	7740
+able	1	749	Railroad Maple	Drive          	Suite 10  	Richland	Wilkinson County	GA	36510     	7766	7070	3871	4952	8653
+able	1	771	Willow 	Street         	Suite N   	Lincoln	Sumner County	TN	31289     	8841	6094	3819	3860	7607
+able	1	799	1st 7th	Ct.            	Suite 100 	Cedar Grove	Wadena County	MN	50411     	9935	6048	3800	5946	9963
+able	1	811	Eigth 	RD             	Suite M   	Shady Grove	Quay County	NM	82812     	7628	5877	3759	3861	7574
+able	1	822	Johnson Third	ST             	Suite P   	Providence	Richland County	OH	46614     	7816	8076	3796	6971	7853
+able	1	824	Valley 	Cir.           	Suite A   	Woodville	Harmon County	OK	74289     	7740	6031	3811	4824	8621
+able	1	837	Cherry Washington	Way            	Suite 10  	Fairview	Lea County	NM	85709     	7846	6108	3849	3793	7534
+able	1	838	Pine Tenth	Parkway        	Suite 360 	Mount Olive	Mariposa County	CA	98059     	8881	6912	3790	4856	8698
+able	1	841	Mill Woodland	Pkwy           	Suite S   	Troy	Green Lake County	WI	50320     	7803	9258	4863	3767	8680
+able	1	846	Cherry 	ST             	Suite T   	Oak Grove	Jackson County	NC	28370     	7763	7087	4798	3773	9637
+able	1	868	Main Park	Ct.            	Suite 240 	Dayton	Warren County	IN	42633     	8847	6025	4856	5804	8745
+able	1	872	College 	Cir.           	Suite J   	Newport	Somerset County	MD	21521     	11116	8110	4846	3855	8591
+able	1	880	4th Adams	Boulevard      	Suite 370 	Glendale	Brazos County	TX	73951     	10040	6934	3679	4799	8391
+able	1	895	6th 	Circle         	Suite 380 	Oak Hill	Brazos County	TX	77838     	7798	6078	3778	3858	7536
+able	1	91	1st 	Boulevard      	Suite B   	Liberty	Warren County	IN	43451     	7915	6975	4920	3768	7475
+able	1	91	Fifth 	Court          	Suite 180 	Jefferson	Walker County	AL	31795     	8845	7047	3901	3697	8650
+able	1	913	Eigth Elm	Ct.            	Suite 470 	Watson	Harmon County	OK	71771     	11884	8166	3845	3794	8665
+able	1	924	2nd Meadow	Way            	Suite Y   	Plainview	Brazos County	TX	73683     	7830	6084	3905	3746	7729
+able	1	936	Franklin 	Drive          	Suite D   	Jackson	Bronx County	NY	19583     	10003	6065	3834	3777	7691
+able	1	940	River Second	Street         	Suite Q   	Eureka	Franklin Parish	LA	75990     	7926	7012	4886	3836	8746
+able	1	940	South 	Ave            	Suite I   	Belmont	Mobile County	AL	30191     	8971	7050	3940	3859	8668
+able	1	942	Railroad 	Avenue         	Suite 290 	Bethel	Raleigh County	WV	25281     	9752	5997	8117	6937	7525
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query50
+select s_store_name ,s_company_id ,s_street_number ,s_street_name ,s_street_type ,s_suite_number ,s_city ,s_county ,s_state ,s_zip ,sum(case when (sr_returned_date_sk - ss_sold_date_sk &lt;= 30 ) then 1 else 0 end)  as `30 days` ,sum(case when (sr_returned_date_sk - ss_sold_date_sk &gt; 30) and (sr_returned_date_sk - ss_sold_date_sk &lt;= 60) then 1 else 0 end )  as `31-60 days` ,sum(case when (sr_returned_date_sk - ss_sold_date_sk &gt; 60) and (sr_returned_date_sk - ss_sold_date_sk &lt;= 90) then 1 else 0 end)  as `61-90 days` ,sum(case when (sr_returned_date_sk - ss_sold_date_sk &gt; 90) and (sr_returned_date_sk - ss_sold_date_sk &lt;= 120) then 1 else 0 end)  as `91-120 days` ,sum(case when (sr_returned_date_sk - ss_sold_date_sk  &gt; 120) then 1 else 0 end)  as `&gt;120 days` from store_sales ,store_returns ,store ,date_dim d1 ,date_dim d2 where d2.d_year = 1998 and d2.d_moy  = 9 and ss_ticket_number = sr_ticket_number and ss_item_sk = sr_item_sk and ss_sold_date_sk   = d1.d_date_sk and sr_returned_date_sk   = d2.d_date_sk and ss_customer_sk = sr_customer_sk and ss_store_sk = s_store_sk group by s_store_name ,s_company_id ,s_street_number ,s_street_name ,s_street_type ,s_suite_number ,s_city ,s_county ,s_state ,s_zip order by s_store_name ,s_company_id ,s_street_number ,s_street_name ,s_street_type ,s_suite_number ,s_city ,s_county ,s_state ,s_zip limit 100
+
+</samplerData>
+</sample>
+<sample t="163899" lt="163831" ts="1600622559302" s="true" lb="query51" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="4705" ng="1" na="1">
+  <responseData class="java.lang.String">y.item_sk	y.d_date	y.web_sales	y.store_sales	y.web_cumulative	y.store_cumulative
+87	2001-03-01	897.49	860.83	897.49	860.83
+325	2001-03-01	884.25	840.34	884.25	840.34
+371	2001-03-01	520.34	480.86	520.34	480.86
+405	2001-03-01	1273.21	1096.79	1273.21	1096.79
+515	2001-03-01	1016.22	807.92	1016.22	807.92
+515	2001-03-03	1985.46	1960.28	1985.46	1960.28
+795	2001-03-01	868.12	698.88	868.12	698.88
+935	2001-03-01	1533.14	1396.51	1533.14	1396.51
+1131	2001-03-01	959.66	959.10	959.66	959.10
+1405	2001-03-01	917.49	746.91	917.49	746.91
+1429	2001-03-01	1022.17	894.25	1022.17	894.25
+1435	2001-03-01	1026.81	743.15	1026.81	743.15
+1639	2001-03-01	1022.45	988.98	1022.45	988.98
+2237	2001-03-01	1053.88	975.34	1053.88	975.34
+2387	2001-03-01	901.31	882.59	901.31	882.59
+2671	2001-03-01	1122.38	1028.25	1122.38	1028.25
+2739	2001-03-01	1292.84	1053.75	1292.84	1053.75
+2879	2001-03-01	1099.07	1009.48	1099.07	1009.48
+3181	2001-03-01	992.34	959.17	992.34	959.17
+3199	2001-03-01	950.43	937.08	950.43	937.08
+3395	2001-03-01	1120.09	969.23	1120.09	969.23
+3413	2001-03-01	864.66	786.36	864.66	786.36
+3589	2001-03-01	1401.23	1207.77	1401.23	1207.77
+3681	2001-03-01	971.74	936.40	971.74	936.40
+3705	2001-03-01	958.30	761.80	958.30	761.80
+3729	2001-03-01	1304.47	1077.26	1304.47	1077.26
+3729	2001-03-03	1811.93	1745.97	1811.93	1745.97
+3929	2001-03-01	914.21	796.96	914.21	796.96
+4237	2001-03-01	1078.28	842.89	1078.28	842.89
+4577	2001-03-01	1120.23	931.72	1120.23	931.72
+5093	2001-03-01	1023.71	864.40	1023.71	864.40
+5141	2001-03-01	1200.40	1059.25	1200.40	1059.25
+5411	2001-03-01	1295.99	1243.90	1295.99	1243.90
+5629	2001-03-01	1318.15	784.13	1318.15	784.13
+5629	2001-03-03	2653.64	2243.75	2653.64	2243.75
+5723	2001-03-01	1238.86	1061.51	1238.86	1061.51
+5839	2001-03-01	1162.39	975.13	1162.39	975.13
+6071	2001-03-01	1005.18	873.39	1005.18	873.39
+6157	2001-03-01	1511.86	1228.07	1511.86	1228.07
+6181	2001-03-01	877.76	854.44	877.76	854.44
+6195	2001-03-01	1108.58	1001.42	1108.58	1001.42
+6469	2001-03-01	1022.84	935.10	1022.84	935.10
+6677	2001-03-01	629.63	600.94	629.63	600.94
+7165	2001-03-01	876.96	835.63	876.96	835.63
+7287	2001-03-01	856.06	791.06	856.06	791.06
+7311	2001-03-01	912.16	762.79	912.16	762.79
+7717	2001-03-01	1394.73	1273.28	1394.73	1273.28
+7963	2001-03-01	1342.70	1167.69	1342.70	1167.69
+8713	2001-03-01	923.73	907.40	923.73	907.40
+8783	2001-03-01	1312.09	1268.15	1312.09	1268.15
+9065	2001-03-01	1342.32	1308.24	1342.32	1308.24
+9129	2001-03-03	2222.88	2022.39	2222.88	2022.39
+9319	2001-03-01	994.02	813.20	994.02	813.20
+9507	2001-03-01	1108.58	1039.55	1108.58	1039.55
+9619	2001-03-01	682.53	560.37	682.53	560.37
+9657	2001-03-01	1073.26	989.89	1073.26	989.89
+9893	2001-03-01	1181.08	1177.81	1181.08	1177.81
+10059	2001-03-01	1499.23	1468.90	1499.23	1468.90
+10127	2001-03-01	711.40	674.31	711.40	674.31
+10177	2001-03-01	786.36	782.93	786.36	782.93
+10235	2001-03-01	1105.90	690.82	1105.90	690.82
+10243	2001-03-01	1235.99	1152.35	1235.99	1152.35
+10459	2001-03-01	1238.60	886.66	1238.60	886.66
+10765	2001-03-01	1125.32	1061.28	1125.32	1061.28
+10785	2001-03-01	1164.90	1085.72	1164.90	1085.72
+10807	2001-03-01	1193.14	1149.52	1193.14	1149.52
+10835	2001-03-01	1217.15	1192.71	1217.15	1192.71
+10969	2001-03-01	800.08	726.60	800.08	726.60
+10997	2001-03-01	959.32	735.18	959.32	735.18
+11113	2001-03-01	888.67	874.67	888.67	874.67
+11211	2001-03-01	595.97	563.87	595.97	563.87
+11223	2001-03-01	864.38	617.57	864.38	617.57
+11229	2001-03-01	1070.43	947.13	1070.43	947.13
+11321	2001-03-01	1218.57	1166.44	1218.57	1166.44
+11465	2001-03-01	948.11	829.48	948.11	829.48
+11577	2001-03-01	1263.20	1196.04	1263.20	1196.04
+11599	2001-03-01	1444.73	1115.72	1444.73	1115.72
+11669	2001-03-01	972.76	942.84	972.76	942.84
+11675	2001-03-01	941.00	919.52	941.00	919.52
+11797	2001-03-01	870.93	831.40	870.93	831.40
+11845	2001-03-01	1679.70	1595.23	1679.70	1595.23
+11959	2001-03-01	737.99	631.08	737.99	631.08
+12015	2001-03-01	1085.44	1066.24	1085.44	1066.24
+12101	2001-03-01	912.19	845.50	912.19	845.50
+12259	2001-03-01	1126.23	1112.49	1126.23	1112.49
+12331	2001-03-01	800.17	718.85	800.17	718.85
+12417	2001-03-01	1274.89	997.57	1274.89	997.57
+12517	2001-03-01	1083.36	879.41	1083.36	879.41
+12715	2001-03-01	855.84	674.05	855.84	674.05
+12735	2001-03-01	557.44	518.68	557.44	518.68
+12881	2001-03-01	568.23	534.07	568.23	534.07
+13007	2001-03-01	1206.49	1008.28	1206.49	1008.28
+13123	2001-03-01	989.17	869.49	989.17	869.49
+13271	2001-03-01	872.35	600.95	872.35	600.95
+13307	2001-03-01	1285.28	878.73	1285.28	878.73
+13439	2001-03-01	769.49	670.03	769.49	670.03
+13721	2001-03-01	920.40	787.85	920.40	787.85
+14099	2001-03-01	1037.23	855.40	1037.23	855.40
+14129	2001-03-01	1099.44	1019.84	1099.44	1019.84
+14139	2001-03-03	2054.13	1939.78	2054.13	1939.78
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query51
+WITH web_v1 as ( select ws_item_sk item_sk, d_date, sum(sum(ws_sales_price)) over (partition by ws_item_sk order by d_date rows between unbounded preceding and current row) cume_sales from web_sales ,date_dim where ws_sold_date_sk=d_date_sk and d_month_seq between 1214 and 1214+11 and ws_item_sk is not NULL group by ws_item_sk, d_date), store_v1 as ( select ss_item_sk item_sk, d_date, sum(sum(ss_sales_price)) over (partition by ss_item_sk order by d_date rows between unbounded preceding and current row) cume_sales from store_sales ,date_dim where ss_sold_date_sk=d_date_sk and d_month_seq between 1214 and 1214+11 and ss_item_sk is not NULL group by ss_item_sk, d_date) select  * from (select item_sk ,d_date ,web_sales ,store_sales ,max(web_sales) over (partition by item_sk order by d_date rows between unbounded preceding and current row) web_cumulative ,max(store_sales) over (partition by item_sk order by d_date rows between unbounded preceding and current row) store_cumulative from (select case when web.item_sk is not null then web.item_sk else store.item_sk end item_sk ,case when web.d_date is not null then web.d_date else store.d_date end d_date ,web.cume_sales web_sales ,store.cume_sales store_sales from web_v1 web full outer join store_v1 store on (web.item_sk = store.item_sk and web.d_date = store.d_date) )x )y where web_cumulative &gt; store_cumulative order by item_sk ,d_date limit 100
+
+</samplerData>
+</sample>
+<sample t="796144" lt="796075" ts="1600623355448" s="true" lb="query75" rc="200" rm="OK" tn="Runs 1-1" dt="text" by="1690" ng="1" na="1">
+  <responseData class="java.lang.String">prev_year	year	curr_yr.i_brand_id	curr_yr.i_class_id	curr_yr.i_category_id	curr_yr.i_manufact_id	prev_yr_cnt	curr_yr_cnt	sales_cnt_diff	sales_amt_diff
+2000	2001	8016001	16	8	67	6017318	2081104	-3936214	-184708009.51
+2000	2001	8012007	12	8	111	5992888	2087641	-3905247	-181973031.74
+2000	2001	8007003	7	8	110	4122634	2072822	-2049812	-94434433.41
+2000	2001	8007009	7	8	210	4112278	2066844	-2045434	-94083535.60
+2000	2001	8006007	6	8	20	4120430	2081403	-2039027	-93659655.61
+2000	2001	8016007	16	8	231	4106600	2072887	-2033713	-94765634.29
+2000	2001	8006007	6	8	25	4108558	2091815	-2016743	-93413295.67
+2000	2001	8003003	3	8	567	4096391	2080125	-2016266	-92869311.70
+2000	2001	8015007	15	8	234	4093086	2077097	-2015989	-94171062.15
+2000	2001	8013005	13	8	41	4090746	2075461	-2015285	-92590653.41
+2000	2001	8010009	10	8	247	4113769	2099346	-2014423	-91826698.78
+2000	2001	8001005	1	8	213	4113736	2100052	-2013684	-91998751.24
+2000	2001	8003005	3	8	37	4098466	2084882	-2013584	-93284072.65
+2000	2001	8001003	1	8	18	4110502	2096979	-2013523	-92622629.75
+2000	2001	8003003	3	8	54	4110899	2098521	-2012378	-91716146.24
+2000	2001	8005007	5	8	102	4091972	2082297	-2009675	-94400794.69
+2000	2001	8005005	5	8	113	4110297	2100755	-2009542	-92729315.10
+2000	2001	8003007	3	8	284	4099239	2089916	-2009323	-91918088.62
+2000	2001	8007001	7	8	166	4097012	2087728	-2009284	-93524631.11
+2000	2001	8007003	7	8	151	4103619	2094447	-2009172	-92498518.64
+2000	2001	8014007	14	8	306	4086365	2088003	-1998362	-90070535.81
+2000	2001	8009001	9	8	610	4083990	2091730	-1992260	-91350588.83
+2000	2001	8003005	3	8	565	4095763	2115819	-1979944	-91532603.64
+2000	2001	8012003	12	8	264	4065350	2093140	-1972210	-92119240.21
+</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query75
+WITH all_sales AS ( SELECT d_year ,i_brand_id ,i_class_id ,i_category_id ,i_manufact_id ,SUM(sales_cnt) AS sales_cnt ,SUM(sales_amt) AS sales_amt FROM (SELECT d_year ,i_brand_id ,i_class_id ,i_category_id ,i_manufact_id ,cs_quantity - COALESCE(cr_return_quantity,0) AS sales_cnt ,cs_ext_sales_price - COALESCE(cr_return_amount,0.0) AS sales_amt FROM catalog_sales JOIN item ON i_item_sk=cs_item_sk JOIN date_dim ON d_date_sk=cs_sold_date_sk LEFT JOIN catalog_returns ON (cs_order_number=cr_order_number AND cs_item_sk=cr_item_sk) WHERE i_category=&apos;Sports&apos; UNION SELECT d_year ,i_brand_id ,i_class_id ,i_category_id ,i_manufact_id ,ss_quantity - COALESCE(sr_return_quantity,0) AS sales_cnt ,ss_ext_sales_price - COALESCE(sr_return_amt,0.0) AS sales_amt FROM store_sales JOIN item ON i_item_sk=ss_item_sk JOIN date_dim ON d_date_sk=ss_sold_date_sk LEFT JOIN store_returns ON (ss_ticket_number=sr_ticket_number AND ss_item_sk=sr_item_sk) WHERE i_category=&apos;Sports&apos; UNION SELECT d_year ,i_brand_id ,i_class_id ,i_category_id ,i_manufact_id ,ws_quantity - COALESCE(wr_return_quantity,0) AS sales_cnt ,ws_ext_sales_price - COALESCE(wr_return_amt,0.0) AS sales_amt FROM web_sales JOIN item ON i_item_sk=ws_item_sk JOIN date_dim ON d_date_sk=ws_sold_date_sk LEFT JOIN web_returns ON (ws_order_number=wr_order_number AND ws_item_sk=wr_item_sk) WHERE i_category=&apos;Sports&apos;) sales_detail GROUP BY d_year, i_brand_id, i_class_id, i_category_id, i_manufact_id) SELECT  prev_yr.d_year AS prev_year ,curr_yr.d_year AS year ,curr_yr.i_brand_id ,curr_yr.i_class_id ,curr_yr.i_category_id ,curr_yr.i_manufact_id ,prev_yr.sales_cnt AS prev_yr_cnt ,curr_yr.sales_cnt AS curr_yr_cnt ,curr_yr.sales_cnt-prev_yr.sales_cnt AS sales_cnt_diff ,curr_yr.sales_amt-prev_yr.sales_amt AS sales_amt_diff FROM all_sales curr_yr, all_sales prev_yr WHERE curr_yr.i_brand_id=prev_yr.i_brand_id AND curr_yr.i_class_id=prev_yr.i_class_id AND curr_yr.i_category_id=prev_yr.i_category_id AND curr_yr.i_manufact_id=prev_yr.i_manufact_id AND curr_yr.d_year=2001 AND prev_yr.d_year=2001-1 AND CAST(curr_yr.sales_cnt AS DECIMAL(17,2))/CAST(prev_yr.sales_cnt AS DECIMAL(17,2))&lt;0.9 ORDER BY sales_cnt_diff,sales_amt_diff limit 100
+
+</samplerData>
+</sample>
+<sample t="167960" lt="0" ts="1600623523412" s="false" lb="query93" rc="08S01 2" rm="java.sql.SQLException: Error while compiling statement: FAILED: Execution Error, return code 2 from org.apache.hadoop.hive.ql.exec.tez.TezTask. Application application_1599783354084_0300 failed 2 times due to AM Container for appattempt_1599783354084_0300_000002 exited with  exitCode: 1&#xa;Failing this attempt.Diagnostics: [2020-09-20 17:38:33.732]Exception from container-launch.&#xa;Container id: container_e37_1599783354084_0300_02_000001&#xa;Exit code: 1&#xa;&#xa;[2020-09-20 17:38:33.836]Container exited with a non-zero exit code 1. Error file: prelaunch.err.&#xa;Last 4096 bytes of prelaunch.err :&#xa;Last 4096 bytes of stderr :&#xa;&#xa;&#xa;[2020-09-20 17:38:33.837]Container exited with a non-zero exit code 1. Error file: prelaunch.err.&#xa;Last 4096 bytes of prelaunch.err :&#xa;Last 4096 bytes of stderr :&#xa;&#xa;&#xa;For more detailed output, check the application tracking page: http://ctr-e141-1563959304486-69251-01-000003.hwx.site:8088/cluster/app/application_1599783354084_0300 Then click on links to logs of each attempt.&#xa;. Failing the application." tn="Runs 1-1" dt="text" by="991" ng="1" na="1">
+  <responseData class="java.lang.String">Error while compiling statement: FAILED: Execution Error, return code 2 from org.apache.hadoop.hive.ql.exec.tez.TezTask. Application application_1599783354084_0300 failed 2 times due to AM Container for appattempt_1599783354084_0300_000002 exited with  exitCode: 1
+Failing this attempt.Diagnostics: [2020-09-20 17:38:33.732]Exception from container-launch.
+Container id: container_e37_1599783354084_0300_02_000001
+Exit code: 1
+
+[2020-09-20 17:38:33.836]Container exited with a non-zero exit code 1. Error file: prelaunch.err.
+Last 4096 bytes of prelaunch.err :
+Last 4096 bytes of stderr :
+
+
+[2020-09-20 17:38:33.837]Container exited with a non-zero exit code 1. Error file: prelaunch.err.
+Last 4096 bytes of prelaunch.err :
+Last 4096 bytes of stderr :
+
+
+For more detailed output, check the application tracking page: http://ctr-e141-1563959304486-69251-01-000003.hwx.site:8088/cluster/app/application_1599783354084_0300 Then click on links to logs of each attempt.
+. Failing the application.</responseData>
+  <samplerData class="java.lang.String">[Select Statement] -- query93
+select  ss_customer_sk ,sum(act_sales) sumsales from (select ss_item_sk ,ss_ticket_number ,ss_customer_sk ,case when sr_return_quantity is not null then (ss_quantity-sr_return_quantity)*ss_sales_price else (ss_quantity*ss_sales_price) end act_sales from store_sales left outer join store_returns on (sr_item_sk = ss_item_sk and sr_ticket_number = ss_ticket_number) ,reason where sr_reason_sk = r_reason_sk and r_reason_desc = &apos;reason 66&apos;) t group by ss_customer_sk order by sumsales, ss_customer_sk limit 100
+
+</samplerData>
+</sample>
+
+</testResults>
